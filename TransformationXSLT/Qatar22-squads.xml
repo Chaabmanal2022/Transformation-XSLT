@@ -1,0 +1,4430 @@
+<?xml version="1.0" encoding="utf-8"?>
+<squads cup="FIFA WORLD CUP QATAR 2022">
+  <group id="A">
+    <team name="Ecuador">
+      <coach>
+        <name>Gustavo Alfaro</name>
+        <country>Argentina</country>
+      </coach>
+      <squad>
+        <player number="1" position="GK">
+          <name>Hernán Galíndez</name>
+          <birthDate>1987-03-30</birthDate>
+          <club country="Ecuador">Aucas</club>
+        </player>
+        <player number="2" position="DF">
+          <name>Félix Torres</name>
+          <birthDate>1997-01-11</birthDate>
+          <club country="Mexico">Santos Laguna</club>
+        </player>
+        <player number="3" position="DF">
+          <name>Piero Hincapié</name>
+          <birthDate>2002-01-09</birthDate>
+          <club country="Germany">Bayer Leverkusen</club>
+        </player>
+        <player number="4" position="DF">
+          <name>Robert Arboleda</name>
+          <birthDate>1991-10-22</birthDate>
+          <club country="Brazil">São Paulo</club>
+        </player>
+        <player number="5" position="MF">
+          <name>José Cifuentes</name>
+          <birthDate>1999-03-12</birthDate>
+          <club country="United States">Los Angeles FC</club>
+        </player>
+        <player number="6" position="DF">
+          <name>William Pacho</name>
+          <birthDate>2001-10-16</birthDate>
+          <club country="Belgium">Antwerp</club>
+        </player>
+        <player number="7" position="DF">
+          <name>Pervis Estupiñán</name>
+          <birthDate>1998-01-21</birthDate>
+          <club country="England">Brighton &amp; Hove Albion</club>
+        </player>
+        <player number="8" position="MF">
+          <name>Carlos Gruezo</name>
+          <birthDate>1995-04-19</birthDate>
+          <club country="Germany">FC Augsburg</club>
+        </player>
+        <player number="9" position="MF">
+          <name>Ayrton Preciado</name>
+          <birthDate>1994-07-17</birthDate>
+          <club country="Mexico">Santos Laguna</club>
+        </player>
+        <player number="10" position="MF">
+          <name>Romario Ibarra</name>
+          <birthDate>1994-09-24</birthDate>
+          <club country="Mexico">Pachuca</club>
+        </player>
+        <player number="11" position="FW">
+          <name>Michael Estrada</name>
+          <birthDate>1996-04-07</birthDate>
+          <club country="Mexico">Cruz Azul</club>
+        </player>
+        <player number="12" position="GK">
+          <name>Moisés Ramírez</name>
+          <birthDate>2000-09-09</birthDate>
+          <club country="Ecuador">Independiente del Valle</club>
+        </player>
+        <player number="13" position="FW">
+          <name>Enner Valencia</name>
+          <birthDate>1989-11-04</birthDate>
+          <club country="Turkey">Fenerbahçe</club>
+        </player>
+        <player number="14" position="DF">
+          <name>Xavier Arreaga</name>
+          <birthDate>1994-09-28</birthDate>
+          <club country="United States">Seattle Sounders FC</club>
+        </player>
+        <player number="15" position="MF">
+          <name>Ángel Mena</name>
+          <birthDate>1988-01-21</birthDate>
+          <club country="Mexico">León</club>
+        </player>
+        <player number="16" position="MF">
+          <name>Jeremy Sarmiento</name>
+          <birthDate>2002-06-16</birthDate>
+          <club country="England">Brighton &amp; Hove Albion</club>
+        </player>
+        <player number="17" position="DF">
+          <name>Ángelo Preciado</name>
+          <birthDate>1998-02-18</birthDate>
+          <club country="Belgium">Genk</club>
+        </player>
+        <player number="18" position="DF">
+          <name>Diego Palacios</name>
+          <birthDate>1999-07-12</birthDate>
+          <club country="United States">Los Angeles FC</club>
+        </player>
+        <player number="19" position="MF">
+          <name>Gonzalo Plata</name>
+          <birthDate>2000-11-01</birthDate>
+          <club country="Spain">Valladolid</club>
+        </player>
+        <player number="20" position="MF">
+          <name>Sebas Méndez</name>
+          <birthDate>1997-04-26</birthDate>
+          <club country="United States">Los Angeles FC</club>
+        </player>
+        <player number="21" position="MF">
+          <name>Alan Franco</name>
+          <birthDate>1998-08-21</birthDate>
+          <club country="Argentina">Talleres</club>
+        </player>
+        <player number="22" position="GK">
+          <name>Alexander Domínguez</name>
+          <birthDate>1987-06-05</birthDate>
+          <club country="Ecuador">LDU Quito</club>
+        </player>
+        <player number="23" position="MF">
+          <name>Moisés Caicedo</name>
+          <birthDate>2001-11-02</birthDate>
+          <club country="England">Brighton &amp; Hove Albion</club>
+        </player>
+        <player number="24" position="FW">
+          <name>Djorkaeff Reasco</name>
+          <birthDate>1999-01-18</birthDate>
+          <club country="Argentina">Newell''s Old Boys</club>
+        </player>
+        <player number="25" position="DF">
+          <name>Jackson Porozo</name>
+          <birthDate>2000-08-04</birthDate>
+          <club country="France">Troyes</club>
+        </player>
+        <player number="26" position="FW">
+          <name>Kevin Rodríguez</name>
+          <birthDate>2000-03-04</birthDate>
+          <club country="Ecuador">Imbabura</club>
+        </player>
+      </squad>
+    </team>
+    <team name="Netherlands">
+      <coach>
+        <name>Louis van Gaal</name>
+        <country>Netherlands</country>
+      </coach>
+      <squad>
+        <player number="1" position="GK">
+          <name>Remko Pasveer</name>
+          <birthDate>1983-11-08</birthDate>
+          <club country="Netherlands">Ajax</club>
+        </player>
+        <player number="2" position="DF">
+          <name>Jurriën Timber</name>
+          <birthDate>2001-06-17</birthDate>
+          <club country="Netherlands">Ajax</club>
+        </player>
+        <player number="3" position="DF">
+          <name>Matthijs de Ligt</name>
+          <birthDate>1999-08-12</birthDate>
+          <club country="Germany">Bayern Munich</club>
+        </player>
+        <player number="4" position="DF">
+          <name>Virgil van Dijk</name>
+          <birthDate>1991-07-08</birthDate>
+          <club country="England">Liverpool</club>
+        </player>
+        <player number="5" position="DF">
+          <name>Nathan Aké</name>
+          <birthDate>1995-02-18</birthDate>
+          <club country="England">Manchester City</club>
+        </player>
+        <player number="6" position="DF">
+          <name>Stefan de Vrij</name>
+          <birthDate>1992-02-05</birthDate>
+          <club country="Italy">Internazionale</club>
+        </player>
+        <player number="7" position="FW">
+          <name>Steven Bergwijn</name>
+          <birthDate>1997-10-08</birthDate>
+          <club country="Netherlands">Ajax</club>
+        </player>
+        <player number="8" position="FW">
+          <name>Cody Gakpo</name>
+          <birthDate>1999-05-07</birthDate>
+          <club country="Netherlands">PSV Eindhoven</club>
+        </player>
+        <player number="9" position="FW">
+          <name>Luuk de Jong</name>
+          <birthDate>1990-08-27</birthDate>
+          <club country="Netherlands">PSV Eindhoven</club>
+        </player>
+        <player number="10" position="FW">
+          <name>Memphis Depay</name>
+          <birthDate>1994-02-13</birthDate>
+          <club country="Spain">Barcelona</club>
+        </player>
+        <player number="11" position="MF">
+          <name>Steven Berghuis</name>
+          <birthDate>1991-12-19</birthDate>
+          <club country="Netherlands">Ajax</club>
+        </player>
+        <player number="12" position="FW">
+          <name>Noa Lang</name>
+          <birthDate>1999-06-17</birthDate>
+          <club country="Belgium">Club Brugge</club>
+        </player>
+        <player number="13" position="GK">
+          <name>Justin Bijlow</name>
+          <birthDate>1998-01-22</birthDate>
+          <club country="Netherlands">Feyenoord</club>
+        </player>
+        <player number="14" position="MF">
+          <name>Davy Klaassen</name>
+          <birthDate>1993-02-21</birthDate>
+          <club country="Netherlands">Ajax</club>
+        </player>
+        <player number="15" position="MF">
+          <name>Marten de Roon</name>
+          <birthDate>1991-03-29</birthDate>
+          <club country="Italy">Atalanta</club>
+        </player>
+        <player number="16" position="DF">
+          <name>Tyrell Malacia</name>
+          <birthDate>1999-08-17</birthDate>
+          <club country="England">Manchester United</club>
+        </player>
+        <player number="17" position="DF">
+          <name>Daley Blind</name>
+          <birthDate>1990-03-09</birthDate>
+          <club country="Netherlands">Ajax</club>
+        </player>
+        <player number="18" position="FW">
+          <name>Vincent Janssen</name>
+          <birthDate>1994-06-15</birthDate>
+          <club country="Belgium">Antwerp</club>
+        </player>
+        <player number="19" position="FW">
+          <name>Wout Weghorst</name>
+          <birthDate>1992-08-07</birthDate>
+          <club country="Turkey">Beşiktaş</club>
+        </player>
+        <player number="20" position="MF">
+          <name>Teun Koopmeiners</name>
+          <birthDate>1998-02-28</birthDate>
+          <club country="Italy">Atalanta</club>
+        </player>
+        <player number="21" position="MF">
+          <name>Frenkie de Jong</name>
+          <birthDate>1997-05-12</birthDate>
+          <club country="Spain">Barcelona</club>
+        </player>
+        <player number="22" position="DF">
+          <name>Denzel Dumfries</name>
+          <birthDate>1996-04-18</birthDate>
+          <club country="Italy">Internazionale</club>
+        </player>
+        <player number="23" position="GK">
+          <name>Andries Noppert</name>
+          <birthDate>1994-04-07</birthDate>
+          <club country="Netherlands">Heerenveen</club>
+        </player>
+        <player number="24" position="MF">
+          <name>Kenneth Taylor</name>
+          <birthDate>2002-05-16</birthDate>
+          <club country="Netherlands">Ajax</club>
+        </player>
+        <player number="25" position="MF">
+          <name>Xavi Simons</name>
+          <birthDate>2003-04-21</birthDate>
+          <club country="Netherlands">PSV Eindhoven</club>
+        </player>
+        <player number="26" position="DF">
+          <name>Jeremie Frimpong</name>
+          <birthDate>2000-12-10</birthDate>
+          <club country="Germany">Bayer Leverkusen</club>
+        </player>
+      </squad>
+    </team>
+    <team name="Qatar">
+      <coach>
+        <name>Félix Sánchez</name>
+        <country>Spain</country>
+      </coach>
+      <squad>
+        <player number="1" position="GK">
+          <name>Saad Al-Sheeb</name>
+          <birthDate>1990-02-19</birthDate>
+          <club country="Qatar">Al-Sadd</club>
+        </player>
+        <player number="2" position="DF">
+          <name>Ró-Ró</name>
+          <birthDate>1990-08-06</birthDate>
+          <club country="Qatar">Al-Sadd</club>
+        </player>
+        <player number="3" position="MF">
+          <name>Abdelkarim Hassan</name>
+          <birthDate>1993-08-28</birthDate>
+          <club country="Qatar">Al-Sadd</club>
+        </player>
+        <player number="4" position="DF">
+          <name>Mohammed Waad</name>
+          <birthDate>1999-09-18</birthDate>
+          <club country="Qatar">Al-Sadd</club>
+        </player>
+        <player number="5" position="DF">
+          <name>Tarek Salman</name>
+          <birthDate>1997-12-05</birthDate>
+          <club country="Qatar">Al-Sadd</club>
+        </player>
+        <player number="6" position="MF">
+          <name>Abdulaziz Hatem</name>
+          <birthDate>1990-01-01</birthDate>
+          <club country="Qatar">Al-Rayyan</club>
+        </player>
+        <player number="7" position="FW">
+          <name>Ahmed Alaaeldin</name>
+          <birthDate>1993-01-31</birthDate>
+          <club country="Qatar">Al-Gharafa</club>
+        </player>
+        <player number="8" position="MF">
+          <name>Ali Assadalla</name>
+          <birthDate>1993-01-19</birthDate>
+          <club country="Qatar">Al-Sadd</club>
+        </player>
+        <player number="9" position="FW">
+          <name>Mohammed Muntari</name>
+          <birthDate>1993-12-20</birthDate>
+          <club country="Qatar">Al-Duhail</club>
+        </player>
+        <player number="10" position="MF">
+          <name>Hassan Al-Haydos</name>
+          <birthDate>1990-12-11</birthDate>
+          <club country="Qatar">Al-Sadd</club>
+        </player>
+        <player number="11" position="FW">
+          <name>Akram Afif</name>
+          <birthDate>1996-11-18</birthDate>
+          <club country="Qatar">Al-Sadd</club>
+        </player>
+        <player number="12" position="MF">
+          <name>Karim Boudiaf</name>
+          <birthDate>1990-09-16</birthDate>
+          <club country="Qatar">Al-Duhail</club>
+        </player>
+        <player number="13" position="DF">
+          <name>Musab Kheder</name>
+          <birthDate>1993-01-01</birthDate>
+          <club country="Qatar">Al-Sadd</club>
+        </player>
+        <player number="14" position="DF">
+          <name>Homam Ahmed</name>
+          <birthDate>1999-08-25</birthDate>
+          <club country="Qatar">Al-Gharafa</club>
+        </player>
+        <player number="15" position="DF">
+          <name>Bassam Al-Rawi</name>
+          <birthDate>1997-12-16</birthDate>
+          <club country="Qatar">Al-Duhail</club>
+        </player>
+        <player number="16" position="DF">
+          <name>Boualem Khoukhi</name>
+          <birthDate>1990-07-09</birthDate>
+          <club country="Qatar">Al-Sadd</club>
+        </player>
+        <player number="17" position="DF">
+          <name>Ismaeel Mohammad</name>
+          <birthDate>1990-04-05</birthDate>
+          <club country="Qatar">Al-Duhail</club>
+        </player>
+        <player number="18" position="FW">
+          <name>Khalid Muneer</name>
+          <birthDate>1998-02-24</birthDate>
+          <club country="Qatar">Al-Wakrah</club>
+        </player>
+        <player number="19" position="FW">
+          <name>Almoez Ali</name>
+          <birthDate>1996-08-19</birthDate>
+          <club country="Qatar">Al-Duhail</club>
+        </player>
+        <player number="20" position="MF">
+          <name>Salem Al-Hajri</name>
+          <birthDate>1996-04-10</birthDate>
+          <club country="Qatar">Al-Sadd</club>
+        </player>
+        <player number="21" position="GK">
+          <name>Yousef Hassan</name>
+          <birthDate>1996-05-24</birthDate>
+          <club country="Qatar">Al-Gharafa</club>
+        </player>
+        <player number="22" position="GK">
+          <name>Meshaal Barsham</name>
+          <birthDate>1998-02-14</birthDate>
+          <club country="Qatar">Al-Sadd</club>
+        </player>
+        <player number="23" position="MF">
+          <name>Assim Madibo</name>
+          <birthDate>1996-10-22</birthDate>
+          <club country="Qatar">Al-Duhail</club>
+        </player>
+        <player number="24" position="MF">
+          <name>Naif Al-Hadhrami</name>
+          <birthDate>2001-07-18</birthDate>
+          <club country="Qatar">Al-Rayyan</club>
+        </player>
+        <player number="25" position="MF">
+          <name>Jassem Gaber</name>
+          <birthDate>2002-02-20</birthDate>
+          <club country="Qatar">Al-Arabi</club>
+        </player>
+        <player number="26" position="MF">
+          <name>Mostafa Meshaal</name>
+          <birthDate>2001-03-28</birthDate>
+          <club country="Qatar">Al-Sadd</club>
+        </player>
+      </squad>
+    </team>
+    <team name="Senegal">
+      <coach>
+        <name>Aliou Cissé</name>
+        <country>Senegal</country>
+      </coach>
+      <squad>
+        <player number="1" position="GK">
+          <name>Seny Dieng</name>
+          <birthDate>1994-11-23</birthDate>
+          <club country="England">Queens Park Rangers</club>
+        </player>
+        <player number="2" position="DF">
+          <name>Formose Mendy</name>
+          <birthDate>2001-01-02</birthDate>
+          <club country="France">Amiens</club>
+        </player>
+        <player number="3" position="DF">
+          <name>Kalidou Koulibaly</name>
+          <birthDate>1991-06-20</birthDate>
+          <club country="England">Chelsea</club>
+        </player>
+        <player number="4" position="DF">
+          <name>Pape Abou Cissé</name>
+          <birthDate>1995-09-14</birthDate>
+          <club country="Greece">Olympiacos</club>
+        </player>
+        <player number="5" position="MF">
+          <name>Idrissa Gueye</name>
+          <birthDate>1989-09-26</birthDate>
+          <club country="England">Everton</club>
+        </player>
+        <player number="6" position="MF">
+          <name>Nampalys Mendy</name>
+          <birthDate>1992-06-23</birthDate>
+          <club country="England">Leicester City</club>
+        </player>
+        <player number="7" position="FW">
+          <name>Nicolas Jackson</name>
+          <birthDate>2001-06-20</birthDate>
+          <club country="Spain">Villarreal</club>
+        </player>
+        <player number="8" position="DF">
+          <name>Cheikhou Kouyaté</name>
+          <birthDate>1989-12-21</birthDate>
+          <club country="England">Nottingham Forest</club>
+        </player>
+        <player number="9" position="FW">
+          <name>Boulaye Dia</name>
+          <birthDate>1996-11-16</birthDate>
+          <club country="Italy">Salernitana</club>
+        </player>
+        <player number="10" position="DF">
+          <name>Moussa N''Diaye</name>
+          <birthDate>2002-06-18</birthDate>
+          <club country="Belgium">Anderlecht</club>
+        </player>
+        <player number="11" position="MF">
+          <name>Pathé Ciss</name>
+          <birthDate>1994-03-16</birthDate>
+          <club country="Spain">Rayo Vallecano</club>
+        </player>
+        <player number="12" position="DF">
+          <name>Fodé Ballo-Touré</name>
+          <birthDate>1997-01-03</birthDate>
+          <club country="Italy">Milan</club>
+        </player>
+        <player number="13" position="FW">
+          <name>Iliman Ndiaye</name>
+          <birthDate>2000-03-06</birthDate>
+          <club country="England">Sheffield United</club>
+        </player>
+        <player number="14" position="DF">
+          <name>Ismail Jakobs</name>
+          <birthDate>1999-08-17</birthDate>
+          <club country="France">Monaco</club>
+        </player>
+        <player number="15" position="MF">
+          <name>Krépin Diatta</name>
+          <birthDate>1999-02-25</birthDate>
+          <club country="France">Monaco</club>
+        </player>
+        <player number="16" position="GK">
+          <name>Édouard Mendy</name>
+          <birthDate>1992-03-01</birthDate>
+          <club country="England">Chelsea</club>
+        </player>
+        <player number="17" position="MF">
+          <name>Pape Matar Sarr</name>
+          <birthDate>2002-09-14</birthDate>
+          <club country="England">Tottenham Hotspur</club>
+        </player>
+        <player number="18" position="FW">
+          <name>Ismaïla Sarr</name>
+          <birthDate>1998-02-25</birthDate>
+          <club country="England">Watford</club>
+        </player>
+        <player number="19" position="FW">
+          <name>Famara Diédhiou</name>
+          <birthDate>1992-12-15</birthDate>
+          <club country="Turkey">Alanyaspor</club>
+        </player>
+        <player number="20" position="FW">
+          <name>Bamba Dieng</name>
+          <birthDate>2000-03-23</birthDate>
+          <club country="France">Marseille</club>
+        </player>
+        <player number="21" position="DF">
+          <name>Youssouf Sabaly</name>
+          <birthDate>1993-03-05</birthDate>
+          <club country="Spain">Real Betis</club>
+        </player>
+        <player number="22" position="DF">
+          <name>Abdou Diallo</name>
+          <birthDate>1996-05-04</birthDate>
+          <club country="Germany">RB Leipzig</club>
+        </player>
+        <player number="23" position="GK">
+          <name>Alfred Gomis</name>
+          <birthDate>1993-09-05</birthDate>
+          <club country="France">Rennes</club>
+        </player>
+        <player number="24" position="DF">
+          <name>Moustapha Name</name>
+          <birthDate>1995-05-05</birthDate>
+          <club country="Cyprus">Pafos</club>
+        </player>
+        <player number="25" position="MF">
+          <name>Mamadou Loum</name>
+          <birthDate>1996-12-30</birthDate>
+          <club country="England">Reading</club>
+        </player>
+        <player number="26" position="MF">
+          <name>Pape Gueye</name>
+          <birthDate>1999-01-24</birthDate>
+          <club country="France">Marseille</club>
+        </player>
+      </squad>
+    </team>
+  </group>
+  <group id="B">
+    <team name="England">
+      <coach>
+        <name>Gareth Southgate</name>
+        <country>England</country>
+      </coach>
+      <squad>
+        <player number="1" position="GK">
+          <name>Jordan Pickford</name>
+          <birthDate>1994-03-07</birthDate>
+          <club country="England">Everton</club>
+        </player>
+        <player number="2" position="DF">
+          <name>Kyle Walker</name>
+          <birthDate>1990-05-28</birthDate>
+          <club country="England">Manchester City</club>
+        </player>
+        <player number="3" position="DF">
+          <name>Luke Shaw</name>
+          <birthDate>1995-07-12</birthDate>
+          <club country="England">Manchester United</club>
+        </player>
+        <player number="4" position="MF">
+          <name>Declan Rice</name>
+          <birthDate>1999-01-14</birthDate>
+          <club country="England">West Ham United</club>
+        </player>
+        <player number="5" position="DF">
+          <name>John Stones</name>
+          <birthDate>1994-05-28</birthDate>
+          <club country="England">Manchester City</club>
+        </player>
+        <player number="6" position="DF">
+          <name>Harry Maguire</name>
+          <birthDate>1993-03-05</birthDate>
+          <club country="England">Manchester United</club>
+        </player>
+        <player number="7" position="FW">
+          <name>Jack Grealish</name>
+          <birthDate>1995-09-10</birthDate>
+          <club country="England">Manchester City</club>
+        </player>
+        <player number="8" position="MF">
+          <name>Jordan Henderson</name>
+          <birthDate>1990-06-17</birthDate>
+          <club country="England">Liverpool</club>
+        </player>
+        <player number="9" position="FW">
+          <name>Harry Kane</name>
+          <birthDate>1993-07-28</birthDate>
+          <club country="England">Tottenham Hotspur</club>
+        </player>
+        <player number="10" position="FW">
+          <name>Raheem Sterling</name>
+          <birthDate>1994-12-08</birthDate>
+          <club country="England">Chelsea</club>
+        </player>
+        <player number="11" position="FW">
+          <name>Marcus Rashford</name>
+          <birthDate>1997-10-31</birthDate>
+          <club country="England">Manchester United</club>
+        </player>
+        <player number="12" position="DF">
+          <name>Kieran Trippier</name>
+          <birthDate>1990-09-19</birthDate>
+          <club country="England">Newcastle United</club>
+        </player>
+        <player number="13" position="GK">
+          <name>Nick Pope</name>
+          <birthDate>1992-04-19</birthDate>
+          <club country="England">Newcastle United</club>
+        </player>
+        <player number="14" position="MF">
+          <name>Kalvin Phillips</name>
+          <birthDate>1995-12-02</birthDate>
+          <club country="England">Manchester City</club>
+        </player>
+        <player number="15" position="DF">
+          <name>Eric Dier</name>
+          <birthDate>1994-01-15</birthDate>
+          <club country="England">Tottenham Hotspur</club>
+        </player>
+        <player number="16" position="DF">
+          <name>Conor Coady</name>
+          <birthDate>1993-02-25</birthDate>
+          <club country="England">Everton</club>
+        </player>
+        <player number="17" position="FW">
+          <name>Bukayo Saka</name>
+          <birthDate>2001-09-05</birthDate>
+          <club country="England">Arsenal</club>
+        </player>
+        <player number="18" position="DF">
+          <name>Trent Alexander-Arnold</name>
+          <birthDate>1998-10-07</birthDate>
+          <club country="England">Liverpool</club>
+        </player>
+        <player number="19" position="MF">
+          <name>Mason Mount</name>
+          <birthDate>1999-01-10</birthDate>
+          <club country="England">Chelsea</club>
+        </player>
+        <player number="20" position="MF">
+          <name>Phil Foden</name>
+          <birthDate>2000-05-28</birthDate>
+          <club country="England">Manchester City</club>
+        </player>
+        <player number="21" position="DF">
+          <name>Ben White</name>
+          <birthDate>1997-10-08</birthDate>
+          <club country="England">Arsenal</club>
+        </player>
+        <player number="22" position="MF">
+          <name>Jude Bellingham</name>
+          <birthDate>2003-06-29</birthDate>
+          <club country="Germany">Borussia Dortmund</club>
+        </player>
+        <player number="23" position="GK">
+          <name>Aaron Ramsdale</name>
+          <birthDate>1998-05-14</birthDate>
+          <club country="England">Arsenal</club>
+        </player>
+        <player number="24" position="FW">
+          <name>Callum Wilson</name>
+          <birthDate>1992-02-27</birthDate>
+          <club country="England">Newcastle United</club>
+        </player>
+        <player number="25" position="MF">
+          <name>James Maddison</name>
+          <birthDate>1996-11-23</birthDate>
+          <club country="England">Leicester City</club>
+        </player>
+        <player number="26" position="MF">
+          <name>Conor Gallagher</name>
+          <birthDate>2000-02-06</birthDate>
+          <club country="England">Chelsea</club>
+        </player>
+      </squad>
+    </team>
+    <team name="Iran">
+      <coach>
+        <name>Carlos Queiroz</name>
+        <country>Portugal</country>
+      </coach>
+      <squad>
+        <player number="1" position="GK">
+          <name>Alireza Beiranvand</name>
+          <birthDate>1992-09-21</birthDate>
+          <club country="Iran">Persepolis</club>
+        </player>
+        <player number="2" position="DF">
+          <name>Sadegh Moharrami</name>
+          <birthDate>1996-03-01</birthDate>
+          <club country="Croatia">Dinamo Zagreb</club>
+        </player>
+        <player number="3" position="DF">
+          <name>Ehsan Hajsafi</name>
+          <birthDate>1990-02-25</birthDate>
+          <club country="Greece">AEK Athens</club>
+        </player>
+        <player number="4" position="DF">
+          <name>Shojae Khalilzadeh</name>
+          <birthDate>1989-05-14</birthDate>
+          <club country="Qatar">Al-Ahli Doha</club>
+        </player>
+        <player number="5" position="DF">
+          <name>Milad Mohammadi</name>
+          <birthDate>1993-09-29</birthDate>
+          <club country="Greece">AEK Athens</club>
+        </player>
+        <player number="6" position="MF">
+          <name>Saeid Ezatolahi</name>
+          <birthDate>1996-10-01</birthDate>
+          <club country="Denmark">Vejle</club>
+        </player>
+        <player number="7" position="MF">
+          <name>Alireza Jahanbakhsh</name>
+          <birthDate>1993-08-11</birthDate>
+          <club country="Netherlands">Feyenoord</club>
+        </player>
+        <player number="8" position="DF">
+          <name>Morteza Pouraliganji</name>
+          <birthDate>1992-04-19</birthDate>
+          <club country="Iran">Persepolis</club>
+        </player>
+        <player number="9" position="FW">
+          <name>Mehdi Taremi</name>
+          <birthDate>1992-07-18</birthDate>
+          <club country="Portugal">Porto</club>
+        </player>
+        <player number="10" position="FW">
+          <name>Karim Ansarifard</name>
+          <birthDate>1990-04-03</birthDate>
+          <club country="Cyprus">Omonia</club>
+        </player>
+        <player number="11" position="MF">
+          <name>Vahid Amiri</name>
+          <birthDate>1988-04-02</birthDate>
+          <club country="Iran">Persepolis</club>
+        </player>
+        <player number="12" position="GK">
+          <name>Payam Niazmand</name>
+          <birthDate>1995-04-06</birthDate>
+          <club country="Iran">Sepahan</club>
+        </player>
+        <player number="13" position="DF">
+          <name>Hossein Kanaanizadegan</name>
+          <birthDate>1994-03-23</birthDate>
+          <club country="Qatar">Al-Ahli Doha</club>
+        </player>
+        <player number="14" position="MF">
+          <name>Saman Ghoddos</name>
+          <birthDate>1993-09-06</birthDate>
+          <club country="England">Brentford</club>
+        </player>
+        <player number="15" position="DF">
+          <name>Rouzbeh Cheshmi</name>
+          <birthDate>1993-07-24</birthDate>
+          <club country="Iran">Esteghlal</club>
+        </player>
+        <player number="16" position="MF">
+          <name>Mehdi Torabi</name>
+          <birthDate>1994-09-10</birthDate>
+          <club country="Iran">Persepolis</club>
+        </player>
+        <player number="17" position="MF">
+          <name>Ali Gholizadeh</name>
+          <birthDate>1996-03-10</birthDate>
+          <club country="Belgium">Charleroi</club>
+        </player>
+        <player number="18" position="MF">
+          <name>Ali Karimi</name>
+          <birthDate>1994-02-11</birthDate>
+          <club country="Turkey">Kayserispor</club>
+        </player>
+        <player number="19" position="DF">
+          <name>Majid Hosseini</name>
+          <birthDate>1996-06-20</birthDate>
+          <club country="Turkey">Kayserispor</club>
+        </player>
+        <player number="20" position="FW">
+          <name>Sardar Azmoun</name>
+          <birthDate>1995-01-01</birthDate>
+          <club country="Germany">Bayer Leverkusen</club>
+        </player>
+        <player number="21" position="MF">
+          <name>Ahmad Nourollahi</name>
+          <birthDate>1993-02-01</birthDate>
+          <club country="United Arab Emirates">Shabab Al-Ahli</club>
+        </player>
+        <player number="22" position="GK">
+          <name>Amir Abedzadeh</name>
+          <birthDate>1993-04-26</birthDate>
+          <club country="Spain">Ponferradina</club>
+        </player>
+        <player number="23" position="DF">
+          <name>Ramin Rezaeian</name>
+          <birthDate>1990-03-21</birthDate>
+          <club country="Iran">Sepahan</club>
+        </player>
+        <player number="24" position="GK">
+          <name>Hossein Hosseini</name>
+          <birthDate>1992-06-30</birthDate>
+          <club country="Iran">Esteghlal</club>
+        </player>
+        <player number="25" position="DF">
+          <name>Abolfazl Jalali</name>
+          <birthDate>1998-06-26</birthDate>
+          <club country="Iran">Esteghlal</club>
+        </player>
+      </squad>
+    </team>
+    <team name="United States">
+      <coach>
+        <name>Gregg Berhalter</name>
+        <country>United States</country>
+      </coach>
+      <squad>
+        <player number="1" position="GK">
+          <name>Matt Turner</name>
+          <birthDate>1994-06-24</birthDate>
+          <club country="England">Arsenal</club>
+        </player>
+        <player number="2" position="DF">
+          <name>Sergiño Dest</name>
+          <birthDate>2000-11-03</birthDate>
+          <club country="Italy">Milan</club>
+        </player>
+        <player number="3" position="DF">
+          <name>Walker Zimmerman</name>
+          <birthDate>1993-05-19</birthDate>
+          <club country="United States">Nashville SC</club>
+        </player>
+        <player number="4" position="MF">
+          <name>Tyler Adams</name>
+          <birthDate>1999-02-14</birthDate>
+          <club country="England">Leeds United</club>
+        </player>
+        <player number="5" position="DF">
+          <name>Antonee Robinson</name>
+          <birthDate>1997-08-08</birthDate>
+          <club country="England">Fulham</club>
+        </player>
+        <player number="6" position="MF">
+          <name>Yunus Musah</name>
+          <birthDate>2002-11-29</birthDate>
+          <club country="Spain">Valencia</club>
+        </player>
+        <player number="7" position="FW">
+          <name>Giovanni Reyna</name>
+          <birthDate>2002-11-13</birthDate>
+          <club country="Germany">Borussia Dortmund</club>
+        </player>
+        <player number="8" position="MF">
+          <name>Weston McKennie</name>
+          <birthDate>1998-08-28</birthDate>
+          <club country="Italy">Juventus</club>
+        </player>
+        <player number="9" position="FW">
+          <name>Jesús Ferreira</name>
+          <birthDate>2000-12-24</birthDate>
+          <club country="United States">FC Dallas</club>
+        </player>
+        <player number="10" position="FW">
+          <name>Christian Pulisic</name>
+          <birthDate>1998-09-18</birthDate>
+          <club country="England">Chelsea</club>
+        </player>
+        <player number="11" position="FW">
+          <name>Brenden Aaronson</name>
+          <birthDate>2000-10-22</birthDate>
+          <club country="England">Leeds United</club>
+        </player>
+        <player number="12" position="GK">
+          <name>Ethan Horvath</name>
+          <birthDate>1995-06-09</birthDate>
+          <club country="England">Luton Town</club>
+        </player>
+        <player number="13" position="DF">
+          <name>Tim Ream</name>
+          <birthDate>1987-10-05</birthDate>
+          <club country="England">Fulham</club>
+        </player>
+        <player number="14" position="MF">
+          <name>Luca de la Torre</name>
+          <birthDate>1998-05-23</birthDate>
+          <club country="Spain">Celta Vigo</club>
+        </player>
+        <player number="15" position="DF">
+          <name>Aaron Long</name>
+          <birthDate>1992-10-12</birthDate>
+          <club country="United States">New York Red Bulls</club>
+        </player>
+        <player number="16" position="FW">
+          <name>Jordan Morris</name>
+          <birthDate>1994-10-26</birthDate>
+          <club country="United States">Seattle Sounders FC</club>
+        </player>
+        <player number="17" position="MF">
+          <name>Cristian Roldan</name>
+          <birthDate>1995-06-03</birthDate>
+          <club country="United States">Seattle Sounders FC</club>
+        </player>
+        <player number="18" position="DF">
+          <name>Shaq Moore</name>
+          <birthDate>1996-11-02</birthDate>
+          <club country="United States">Nashville SC</club>
+        </player>
+        <player number="19" position="FW">
+          <name>Haji Wright</name>
+          <birthDate>1998-03-27</birthDate>
+          <club country="Turkey">Antalyaspor</club>
+        </player>
+        <player number="20" position="DF">
+          <name>Cameron Carter-Vickers</name>
+          <birthDate>1997-12-31</birthDate>
+          <club country="Scotland">Celtic</club>
+        </player>
+        <player number="21" position="FW">
+          <name>Timothy Weah</name>
+          <birthDate>2000-02-22</birthDate>
+          <club country="France">Lille</club>
+        </player>
+        <player number="22" position="DF">
+          <name>DeAndre Yedlin</name>
+          <birthDate>1993-07-09</birthDate>
+          <club country="United States">Inter Miami CF</club>
+        </player>
+        <player number="23" position="MF">
+          <name>Kellyn Acosta</name>
+          <birthDate>1995-07-24</birthDate>
+          <club country="United States">Los Angeles FC</club>
+        </player>
+        <player number="24" position="FW">
+          <name>Josh Sargent</name>
+          <birthDate>2000-02-20</birthDate>
+          <club country="England">Norwich City</club>
+        </player>
+        <player number="25" position="GK">
+          <name>Sean Johnson</name>
+          <birthDate>1989-05-31</birthDate>
+          <club country="United States">New York City FC</club>
+        </player>
+        <player number="26" position="DF">
+          <name>Joe Scally</name>
+          <birthDate>2002-12-31</birthDate>
+          <club country="Germany">Borussia Mönchengladbach</club>
+        </player>
+      </squad>
+    </team>
+    <team name="Wales">
+      <coach>
+        <name>Rob Page</name>
+        <country>Wales</country>
+      </coach>
+      <squad>
+        <player number="1" position="GK">
+          <name>Wayne Hennessey</name>
+          <birthDate>1987-01-24</birthDate>
+          <club country="England">Nottingham Forest</club>
+        </player>
+        <player number="2" position="DF">
+          <name>Chris Gunter</name>
+          <birthDate>1989-07-21</birthDate>
+          <club country="England">AFC Wimbledon</club>
+        </player>
+        <player number="3" position="DF">
+          <name>Neco Williams</name>
+          <birthDate>2001-04-13</birthDate>
+          <club country="England">Nottingham Forest</club>
+        </player>
+        <player number="4" position="DF">
+          <name>Ben Davies</name>
+          <birthDate>1993-04-24</birthDate>
+          <club country="England">Tottenham Hotspur</club>
+        </player>
+        <player number="5" position="DF">
+          <name>Chris Mepham</name>
+          <birthDate>1997-11-05</birthDate>
+          <club country="England">Bournemouth</club>
+        </player>
+        <player number="6" position="DF">
+          <name>Joe Rodon</name>
+          <birthDate>1997-10-22</birthDate>
+          <club country="France">Rennes</club>
+        </player>
+        <player number="7" position="MF">
+          <name>Joe Allen</name>
+          <birthDate>1990-03-14</birthDate>
+          <club country="Wales">Swansea City</club>
+        </player>
+        <player number="8" position="MF">
+          <name>Harry Wilson</name>
+          <birthDate>1997-03-22</birthDate>
+          <club country="England">Fulham</club>
+        </player>
+        <player number="9" position="FW">
+          <name>Brennan Johnson</name>
+          <birthDate>2001-05-23</birthDate>
+          <club country="England">Nottingham Forest</club>
+        </player>
+        <player number="10" position="MF">
+          <name>Aaron Ramsey</name>
+          <birthDate>1990-12-26</birthDate>
+          <club country="France">Nice</club>
+        </player>
+        <player number="11" position="FW">
+          <name>Gareth Bale</name>
+          <birthDate>1989-07-16</birthDate>
+          <club country="United States">Los Angeles FC</club>
+        </player>
+        <player number="12" position="GK">
+          <name>Danny Ward</name>
+          <birthDate>1993-06-22</birthDate>
+          <club country="England">Leicester City</club>
+        </player>
+        <player number="13" position="FW">
+          <name>Kieffer Moore</name>
+          <birthDate>1992-08-08</birthDate>
+          <club country="England">Bournemouth</club>
+        </player>
+        <player number="14" position="DF">
+          <name>Connor Roberts</name>
+          <birthDate>1995-09-23</birthDate>
+          <club country="England">Burnley</club>
+        </player>
+        <player number="15" position="DF">
+          <name>Ethan Ampadu</name>
+          <birthDate>2000-09-14</birthDate>
+          <club country="Italy">Spezia</club>
+        </player>
+        <player number="16" position="MF">
+          <name>Joe Morrell</name>
+          <birthDate>1997-01-03</birthDate>
+          <club country="England">Portsmouth</club>
+        </player>
+        <player number="17" position="DF">
+          <name>Tom Lockyer</name>
+          <birthDate>1994-12-03</birthDate>
+          <club country="England">Luton Town</club>
+        </player>
+        <player number="18" position="MF">
+          <name>Jonny Williams</name>
+          <birthDate>1993-10-09</birthDate>
+          <club country="England">Swindon Town</club>
+        </player>
+        <player number="19" position="FW">
+          <name>Mark Harris</name>
+          <birthDate>1998-12-29</birthDate>
+          <club country="Wales">Cardiff City</club>
+        </player>
+        <player number="20" position="FW">
+          <name>Daniel James</name>
+          <birthDate>1997-11-10</birthDate>
+          <club country="England">Fulham</club>
+        </player>
+        <player number="21" position="GK">
+          <name>Adam Davies</name>
+          <birthDate>1992-07-17</birthDate>
+          <club country="England">Sheffield United</club>
+        </player>
+        <player number="22" position="MF">
+          <name>Sorba Thomas</name>
+          <birthDate>1999-01-25</birthDate>
+          <club country="England">Huddersfield Town</club>
+        </player>
+        <player number="23" position="MF">
+          <name>Dylan Levitt</name>
+          <birthDate>2000-11-17</birthDate>
+          <club country="Scotland">Dundee United</club>
+        </player>
+        <player number="24" position="DF">
+          <name>Ben Cabango</name>
+          <birthDate>2000-05-30</birthDate>
+          <club country="Wales">Swansea City</club>
+        </player>
+        <player number="25" position="MF">
+          <name>Rubin Colwill</name>
+          <birthDate>2002-04-27</birthDate>
+          <club country="Wales">Cardiff City</club>
+        </player>
+        <player number="26" position="MF">
+          <name>Matthew Smith</name>
+          <birthDate>1999-11-22</birthDate>
+          <club country="England">Milton Keynes Dons</club>
+        </player>
+      </squad>
+    </team>
+  </group>
+  <group id="C">
+    <team name="Argentina">
+      <coach>
+        <name>Lionel Scaloni</name>
+        <country>Argentina</country>
+      </coach>
+      <squad>
+        <player number="1" position="GK">
+          <name>Franco Armani</name>
+          <birthDate>1986-10-16</birthDate>
+          <club country="Argentina">River Plate</club>
+        </player>
+        <player number="2" position="DF">
+          <name>Juan Foyth</name>
+          <birthDate>1998-01-12</birthDate>
+          <club country="Spain">Villarreal</club>
+        </player>
+        <player number="3" position="DF">
+          <name>Nicolás Tagliafico</name>
+          <birthDate>1992-08-31</birthDate>
+          <club country="France">Lyon</club>
+        </player>
+        <player number="4" position="DF">
+          <name>Gonzalo Montiel</name>
+          <birthDate>1997-01-01</birthDate>
+          <club country="Spain">Sevilla</club>
+        </player>
+        <player number="5" position="MF">
+          <name>Leandro Paredes</name>
+          <birthDate>1994-06-29</birthDate>
+          <club country="Italy">Juventus</club>
+        </player>
+        <player number="6" position="DF">
+          <name>Germán Pezzella</name>
+          <birthDate>1991-06-27</birthDate>
+          <club country="Spain">Real Betis</club>
+        </player>
+        <player number="7" position="MF">
+          <name>Rodrigo De Paul</name>
+          <birthDate>1994-05-24</birthDate>
+          <club country="Spain">Atlético Madrid</club>
+        </player>
+        <player number="8" position="MF">
+          <name>Marcos Acuña</name>
+          <birthDate>1991-10-28</birthDate>
+          <club country="Spain">Sevilla</club>
+        </player>
+        <player number="9" position="FW">
+          <name>Julián Álvarez</name>
+          <birthDate>2000-01-31</birthDate>
+          <club country="England">Manchester City</club>
+        </player>
+        <player number="10" position="FW">
+          <name>Lionel Messi</name>
+          <birthDate>1987-06-24</birthDate>
+          <club country="France">Paris Saint-Germain</club>
+        </player>
+        <player number="11" position="FW">
+          <name>Ángel Di María</name>
+          <birthDate>1988-02-14</birthDate>
+          <club country="Italy">Juventus</club>
+        </player>
+        <player number="12" position="GK">
+          <name>Gerónimo Rulli</name>
+          <birthDate>1992-05-20</birthDate>
+          <club country="Spain">Villarreal</club>
+        </player>
+        <player number="13" position="DF">
+          <name>Cristian Romero</name>
+          <birthDate>1998-04-27</birthDate>
+          <club country="England">Tottenham Hotspur</club>
+        </player>
+        <player number="14" position="MF">
+          <name>Exequiel Palacios</name>
+          <birthDate>1998-10-05</birthDate>
+          <club country="Germany">Bayer Leverkusen</club>
+        </player>
+        <player number="15" position="FW">
+          <name>Ángel Correa</name>
+          <birthDate>1995-03-09</birthDate>
+          <club country="Spain">Atlético Madrid</club>
+        </player>
+        <player number="16" position="MF">
+          <name>Thiago Almada</name>
+          <birthDate>2001-04-26</birthDate>
+          <club country="United States">Atlanta United FC</club>
+        </player>
+        <player number="17" position="MF">
+          <name>Papu Gómez</name>
+          <birthDate>1988-02-15</birthDate>
+          <club country="Spain">Sevilla</club>
+        </player>
+        <player number="18" position="MF">
+          <name>Guido Rodríguez</name>
+          <birthDate>1994-04-12</birthDate>
+          <club country="Spain">Real Betis</club>
+        </player>
+        <player number="19" position="DF">
+          <name>Nicolás Otamendi</name>
+          <birthDate>1988-02-12</birthDate>
+          <club country="Portugal">Benfica</club>
+        </player>
+        <player number="20" position="MF">
+          <name>Alexis Mac Allister</name>
+          <birthDate>1998-12-24</birthDate>
+          <club country="England">Brighton &amp; Hove Albion</club>
+        </player>
+        <player number="21" position="FW">
+          <name>Paulo Dybala</name>
+          <birthDate>1993-11-15</birthDate>
+          <club country="Italy">Roma</club>
+        </player>
+        <player number="22" position="FW">
+          <name>Lautaro Martínez</name>
+          <birthDate>1997-08-22</birthDate>
+          <club country="Italy">Internazionale</club>
+        </player>
+        <player number="23" position="GK">
+          <name>Emiliano Martínez</name>
+          <birthDate>1992-09-02</birthDate>
+          <club country="England">Aston Villa</club>
+        </player>
+        <player number="24" position="MF">
+          <name>Enzo Fernández</name>
+          <birthDate>2001-01-17</birthDate>
+          <club country="Portugal">Benfica</club>
+        </player>
+        <player number="25" position="DF">
+          <name>Lisandro Martínez</name>
+          <birthDate>1998-01-18</birthDate>
+          <club country="England">Manchester United</club>
+        </player>
+        <player number="26" position="DF">
+          <name>Nahuel Molina</name>
+          <birthDate>1998-04-06</birthDate>
+          <club country="Spain">Atlético Madrid</club>
+        </player>
+      </squad>
+    </team>
+    <team name="Mexico">
+      <coach>
+        <name>Gerardo Martino</name>
+        <country>Argentina</country>
+      </coach>
+      <squad>
+        <player number="1" position="GK">
+          <name>Alfredo Talavera</name>
+          <birthDate>1982-09-18</birthDate>
+          <club country="Mexico">Juárez</club>
+        </player>
+        <player number="2" position="DF">
+          <name>Néstor Araujo</name>
+          <birthDate>1991-08-29</birthDate>
+          <club country="Mexico">América</club>
+        </player>
+        <player number="3" position="DF">
+          <name>César Montes</name>
+          <birthDate>1997-02-24</birthDate>
+          <club country="Mexico">Monterrey</club>
+        </player>
+        <player number="4" position="DF">
+          <name>Edson Álvarez</name>
+          <birthDate>1997-10-24</birthDate>
+          <club country="Netherlands">Ajax</club>
+        </player>
+        <player number="5" position="DF">
+          <name>Johan Vásquez</name>
+          <birthDate>1998-10-22</birthDate>
+          <club country="Italy">Cremonese</club>
+        </player>
+        <player number="6" position="DF">
+          <name>Gerardo Arteaga</name>
+          <birthDate>1998-09-07</birthDate>
+          <club country="Belgium">Genk</club>
+        </player>
+        <player number="7" position="MF">
+          <name>Luis Romo</name>
+          <birthDate>1995-06-05</birthDate>
+          <club country="Mexico">Monterrey</club>
+        </player>
+        <player number="8" position="MF">
+          <name>Carlos Rodríguez</name>
+          <birthDate>1997-01-03</birthDate>
+          <club country="Mexico">Cruz Azul</club>
+        </player>
+        <player number="9" position="FW">
+          <name>Raúl Jiménez</name>
+          <birthDate>1991-05-05</birthDate>
+          <club country="England">Wolverhampton Wanderers</club>
+        </player>
+        <player number="10" position="FW">
+          <name>Alexis Vega</name>
+          <birthDate>1997-11-25</birthDate>
+          <club country="Mexico">Guadalajara</club>
+        </player>
+        <player number="11" position="FW">
+          <name>Rogelio Funes Mori</name>
+          <birthDate>1991-03-05</birthDate>
+          <club country="Mexico">Monterrey</club>
+        </player>
+        <player number="12" position="GK">
+          <name>Rodolfo Cota</name>
+          <birthDate>1987-07-03</birthDate>
+          <club country="Mexico">León</club>
+        </player>
+        <player number="13" position="GK">
+          <name>Guillermo Ochoa</name>
+          <birthDate>1985-07-13</birthDate>
+          <club country="Mexico">América</club>
+        </player>
+        <player number="14" position="MF">
+          <name>Érick Gutiérrez</name>
+          <birthDate>1995-06-15</birthDate>
+          <club country="Netherlands">PSV Eindhoven</club>
+        </player>
+        <player number="15" position="DF">
+          <name>Héctor Moreno</name>
+          <birthDate>1988-01-17</birthDate>
+          <club country="Mexico">Monterrey</club>
+        </player>
+        <player number="16" position="MF">
+          <name>Héctor Herrera</name>
+          <birthDate>1990-04-19</birthDate>
+          <club country="United States">Houston Dynamo FC</club>
+        </player>
+        <player number="17" position="FW">
+          <name>Orbelín Pineda</name>
+          <birthDate>1996-03-24</birthDate>
+          <club country="Greece">AEK Athens</club>
+        </player>
+        <player number="18" position="MF">
+          <name>Andrés Guardado</name>
+          <birthDate>1986-09-28</birthDate>
+          <club country="Spain">Real Betis</club>
+        </player>
+        <player number="19" position="DF">
+          <name>Jorge Sánchez</name>
+          <birthDate>1997-12-10</birthDate>
+          <club country="Netherlands">Ajax</club>
+        </player>
+        <player number="20" position="FW">
+          <name>Henry Martín</name>
+          <birthDate>1992-11-18</birthDate>
+          <club country="Mexico">América</club>
+        </player>
+        <player number="21" position="FW">
+          <name>Uriel Antuna</name>
+          <birthDate>1997-08-21</birthDate>
+          <club country="Mexico">Cruz Azul</club>
+        </player>
+        <player number="22" position="FW">
+          <name>Hirving Lozano</name>
+          <birthDate>1995-07-30</birthDate>
+          <club country="Italy">Napoli</club>
+        </player>
+        <player number="23" position="DF">
+          <name>Jesús Gallardo</name>
+          <birthDate>1994-08-15</birthDate>
+          <club country="Mexico">Monterrey</club>
+        </player>
+        <player number="24" position="MF">
+          <name>Luis Chávez</name>
+          <birthDate>1996-01-15</birthDate>
+          <club country="Mexico">Pachuca</club>
+        </player>
+        <player number="25" position="FW">
+          <name>Roberto Alvarado</name>
+          <birthDate>1998-09-07</birthDate>
+          <club country="Mexico">Guadalajara</club>
+        </player>
+        <player number="26" position="DF">
+          <name>Kevin Álvarez</name>
+          <birthDate>1999-01-15</birthDate>
+          <club country="Mexico">Pachuca</club>
+        </player>
+      </squad>
+    </team>
+    <team name="Poland">
+      <coach>
+        <name>Czesław Michniewicz</name>
+        <country>Poland</country>
+      </coach>
+      <squad>
+        <player number="1" position="GK">
+          <name>Wojciech Szczęsny</name>
+          <birthDate>1990-04-18</birthDate>
+          <club country="Italy">Juventus</club>
+        </player>
+        <player number="2" position="DF">
+          <name>Matty Cash</name>
+          <birthDate>1997-08-07</birthDate>
+          <club country="England">Aston Villa</club>
+        </player>
+        <player number="3" position="DF">
+          <name>Artur Jędrzejczyk</name>
+          <birthDate>1987-11-04</birthDate>
+          <club country="Poland">Legia Warsaw</club>
+        </player>
+        <player number="4" position="DF">
+          <name>Mateusz Wieteska</name>
+          <birthDate>1997-02-11</birthDate>
+          <club country="France">Clermont</club>
+        </player>
+        <player number="5" position="DF">
+          <name>Jan Bednarek</name>
+          <birthDate>1996-04-12</birthDate>
+          <club country="England">Aston Villa</club>
+        </player>
+        <player number="6" position="MF">
+          <name>Krystian Bielik</name>
+          <birthDate>1998-01-04</birthDate>
+          <club country="England">Birmingham City</club>
+        </player>
+        <player number="7" position="FW">
+          <name>Arkadiusz Milik</name>
+          <birthDate>1994-02-28</birthDate>
+          <club country="Italy">Juventus</club>
+        </player>
+        <player number="8" position="MF">
+          <name>Damian Szymański</name>
+          <birthDate>1995-06-16</birthDate>
+          <club country="Greece">AEK Athens</club>
+        </player>
+        <player number="9" position="FW">
+          <name>Robert Lewandowski</name>
+          <birthDate>1988-08-21</birthDate>
+          <club country="Spain">Barcelona</club>
+        </player>
+        <player number="10" position="MF">
+          <name>Grzegorz Krychowiak</name>
+          <birthDate>1990-01-29</birthDate>
+          <club country="Saudi Arabia">Al-Shabab</club>
+        </player>
+        <player number="11" position="MF">
+          <name>Kamil Grosicki</name>
+          <birthDate>1988-06-08</birthDate>
+          <club country="Poland">Pogoń Szczecin</club>
+        </player>
+        <player number="12" position="GK">
+          <name>Łukasz Skorupski</name>
+          <birthDate>1991-05-05</birthDate>
+          <club country="Italy">Bologna</club>
+        </player>
+        <player number="13" position="MF">
+          <name>Jakub Kamiński</name>
+          <birthDate>2002-06-05</birthDate>
+          <club country="Germany">VfL Wolfsburg</club>
+        </player>
+        <player number="14" position="DF">
+          <name>Jakub Kiwior</name>
+          <birthDate>2000-02-15</birthDate>
+          <club country="Italy">Spezia</club>
+        </player>
+        <player number="15" position="DF">
+          <name>Kamil Glik</name>
+          <birthDate>1988-02-03</birthDate>
+          <club country="Italy">Benevento</club>
+        </player>
+        <player number="16" position="FW">
+          <name>Karol Świderski</name>
+          <birthDate>1997-01-23</birthDate>
+          <club country="United States">Charlotte FC</club>
+        </player>
+        <player number="17" position="MF">
+          <name>Szymon Żurkowski</name>
+          <birthDate>1997-09-25</birthDate>
+          <club country="Italy">Fiorentina</club>
+        </player>
+        <player number="18" position="DF">
+          <name>Bartosz Bereszyński</name>
+          <birthDate>1992-07-12</birthDate>
+          <club country="Italy">Sampdoria</club>
+        </player>
+        <player number="19" position="MF">
+          <name>Sebastian Szymański</name>
+          <birthDate>1999-05-10</birthDate>
+          <club country="Netherlands">Feyenoord</club>
+        </player>
+        <player number="20" position="MF">
+          <name>Piotr Zieliński</name>
+          <birthDate>1994-05-20</birthDate>
+          <club country="Italy">Napoli</club>
+        </player>
+        <player number="21" position="MF">
+          <name>Nicola Zalewski</name>
+          <birthDate>2002-01-23</birthDate>
+          <club country="Italy">Roma</club>
+        </player>
+        <player number="22" position="GK">
+          <name>Kamil Grabara</name>
+          <birthDate>1999-01-08</birthDate>
+          <club country="Denmark">Copenhagen</club>
+        </player>
+        <player number="23" position="FW">
+          <name>Krzysztof Piątek</name>
+          <birthDate>1995-07-01</birthDate>
+          <club country="Italy">Salernitana</club>
+        </player>
+        <player number="24" position="MF">
+          <name>Przemysław Frankowski</name>
+          <birthDate>1995-04-12</birthDate>
+          <club country="France">Lens</club>
+        </player>
+        <player number="25" position="DF">
+          <name>Robert Gumny</name>
+          <birthDate>1998-06-04</birthDate>
+          <club country="Germany">FC Augsburg</club>
+        </player>
+        <player number="26" position="MF">
+          <name>Michał Skóraś</name>
+          <birthDate>2000-02-15</birthDate>
+          <club country="Poland">Lech Poznań</club>
+        </player>
+      </squad>
+    </team>
+    <team name="Saudi Arabia">
+      <coach>
+        <name>Hervé Renard</name>
+        <country>France</country>
+      </coach>
+      <squad>
+        <player number="1" position="GK">
+          <name>Mohammed Al-Rubaie</name>
+          <birthDate>1997-08-14</birthDate>
+          <club country="Saudi Arabia">Al-Ahli</club>
+        </player>
+        <player number="2" position="DF">
+          <name>Sultan Al-Ghannam</name>
+          <birthDate>1994-05-06</birthDate>
+          <club country="Saudi Arabia">Al-Nassr</club>
+        </player>
+        <player number="3" position="DF">
+          <name>Abdullah Madu</name>
+          <birthDate>1993-07-15</birthDate>
+          <club country="Saudi Arabia">Al-Nassr</club>
+        </player>
+        <player number="4" position="DF">
+          <name>Abdulelah Al-Amri</name>
+          <birthDate>1997-01-15</birthDate>
+          <club country="Saudi Arabia">Al-Nassr</club>
+        </player>
+        <player number="5" position="DF">
+          <name>Ali Al-Bulaihi</name>
+          <birthDate>1989-11-21</birthDate>
+          <club country="Saudi Arabia">Al-Hilal</club>
+        </player>
+        <player number="6" position="DF">
+          <name>Mohammed Al-Breik</name>
+          <birthDate>1992-09-15</birthDate>
+          <club country="Saudi Arabia">Al-Hilal</club>
+        </player>
+        <player number="7" position="MF">
+          <name>Salman Al-Faraj</name>
+          <birthDate>1989-08-01</birthDate>
+          <club country="Saudi Arabia">Al-Hilal</club>
+        </player>
+        <player number="8" position="MF">
+          <name>Abdulellah Al-Malki</name>
+          <birthDate>1994-10-11</birthDate>
+          <club country="Saudi Arabia">Al-Hilal</club>
+        </player>
+        <player number="9" position="FW">
+          <name>Firas Al-Buraikan</name>
+          <birthDate>2000-05-14</birthDate>
+          <club country="Saudi Arabia">Al-Fateh</club>
+        </player>
+        <player number="10" position="FW">
+          <name>Salem Al-Dawsari</name>
+          <birthDate>1991-08-19</birthDate>
+          <club country="Saudi Arabia">Al-Hilal</club>
+        </player>
+        <player number="11" position="FW">
+          <name>Saleh Al-Shehri</name>
+          <birthDate>1993-11-01</birthDate>
+          <club country="Saudi Arabia">Al-Hilal</club>
+        </player>
+        <player number="12" position="DF">
+          <name>Saud Abdulhamid</name>
+          <birthDate>1999-07-18</birthDate>
+          <club country="Saudi Arabia">Al-Hilal</club>
+        </player>
+        <player number="13" position="DF">
+          <name>Yasser Al-Shahrani</name>
+          <birthDate>1992-05-25</birthDate>
+          <club country="Saudi Arabia">Al-Hilal</club>
+        </player>
+        <player number="14" position="MF">
+          <name>Abdullah Otayf</name>
+          <birthDate>1992-08-03</birthDate>
+          <club country="Saudi Arabia">Al-Hilal</club>
+        </player>
+        <player number="15" position="MF">
+          <name>Ali Al-Hassan</name>
+          <birthDate>1997-03-04</birthDate>
+          <club country="Saudi Arabia">Al-Nassr</club>
+        </player>
+        <player number="16" position="MF">
+          <name>Sami Al-Najei</name>
+          <birthDate>1997-02-07</birthDate>
+          <club country="Saudi Arabia">Al-Nassr</club>
+        </player>
+        <player number="17" position="DF">
+          <name>Hassan Al-Tambakti</name>
+          <birthDate>1999-02-09</birthDate>
+          <club country="Saudi Arabia">Al-Shabab</club>
+        </player>
+        <player number="18" position="MF">
+          <name>Nawaf Al-Abed</name>
+          <birthDate>1990-01-26</birthDate>
+          <club country="Saudi Arabia">Al-Shabab</club>
+        </player>
+        <player number="19" position="FW">
+          <name>Hattan Bahebri</name>
+          <birthDate>1992-07-16</birthDate>
+          <club country="Saudi Arabia">Al-Shabab</club>
+        </player>
+        <player number="20" position="FW">
+          <name>Abdulrahman Al-Aboud</name>
+          <birthDate>1995-06-01</birthDate>
+          <club country="Saudi Arabia">Al-Ittihad</club>
+        </player>
+        <player number="21" position="GK">
+          <name>Mohammed Al-Owais</name>
+          <birthDate>1991-10-10</birthDate>
+          <club country="Saudi Arabia">Al-Hilal</club>
+        </player>
+        <player number="22" position="GK">
+          <name>Nawaf Al-Aqidi</name>
+          <birthDate>2000-05-10</birthDate>
+          <club country="Saudi Arabia">Al-Nassr</club>
+        </player>
+        <player number="23" position="MF">
+          <name>Mohamed Kanno</name>
+          <birthDate>1994-09-22</birthDate>
+          <club country="Saudi Arabia">Al-Hilal</club>
+        </player>
+        <player number="24" position="MF">
+          <name>Nasser Al-Dawsari</name>
+          <birthDate>1998-12-19</birthDate>
+          <club country="Saudi Arabia">Al-Hilal</club>
+        </player>
+        <player number="25" position="FW">
+          <name>Haitham Asiri</name>
+          <birthDate>2001-03-25</birthDate>
+          <club country="Saudi Arabia">Al-Ahli</club>
+        </player>
+        <player number="26" position="MF">
+          <name>Riyadh Sharahili</name>
+          <birthDate>1993-04-28</birthDate>
+          <club country="Saudi Arabia">Abha</club>
+        </player>
+      </squad>
+    </team>
+  </group>
+  <group id="D">
+    <team name="Australia">
+      <coach>
+        <name>Graham Arnold</name>
+        <country>Australia</country>
+      </coach>
+      <squad>
+        <player number="1" position="GK">
+          <name>Mathew Ryan</name>
+          <birthDate>1992-04-08</birthDate>
+          <club country="Denmark">Copenhagen</club>
+        </player>
+        <player number="2" position="DF">
+          <name>Miloš Degenek</name>
+          <birthDate>1994-04-28</birthDate>
+          <club country="United States">Columbus Crew</club>
+        </player>
+        <player number="3" position="DF">
+          <name>Nathaniel Atkinson</name>
+          <birthDate>1999-06-13</birthDate>
+          <club country="Scotland">Heart of Midlothian</club>
+        </player>
+        <player number="4" position="DF">
+          <name>Kye Rowles</name>
+          <birthDate>1998-06-24</birthDate>
+          <club country="Scotland">Heart of Midlothian</club>
+        </player>
+        <player number="5" position="DF">
+          <name>Fran Karačić</name>
+          <birthDate>1996-05-12</birthDate>
+          <club country="Italy">Brescia</club>
+        </player>
+        <player number="6" position="FW">
+          <name>Marco Tilio</name>
+          <birthDate>2001-08-23</birthDate>
+          <club country="Australia">Melbourne City</club>
+        </player>
+        <player number="7" position="FW">
+          <name>Mathew Leckie</name>
+          <birthDate>1991-02-04</birthDate>
+          <club country="Australia">Melbourne City</club>
+        </player>
+        <player number="8" position="DF">
+          <name>Bailey Wright</name>
+          <birthDate>1992-07-28</birthDate>
+          <club country="England">Sunderland</club>
+        </player>
+        <player number="9" position="FW">
+          <name>Jamie Maclaren</name>
+          <birthDate>1993-07-29</birthDate>
+          <club country="Australia">Melbourne City</club>
+        </player>
+        <player number="10" position="MF">
+          <name>Ajdin Hrustic</name>
+          <birthDate>1996-07-05</birthDate>
+          <club country="Italy">Hellas Verona</club>
+        </player>
+        <player number="11" position="FW">
+          <name>Awer Mabil</name>
+          <birthDate>1995-09-15</birthDate>
+          <club country="Spain">Cádiz</club>
+        </player>
+        <player number="12" position="GK">
+          <name>Andrew Redmayne</name>
+          <birthDate>1989-01-13</birthDate>
+          <club country="Australia">Sydney FC</club>
+        </player>
+        <player number="13" position="MF">
+          <name>Aaron Mooy</name>
+          <birthDate>1990-09-15</birthDate>
+          <club country="Scotland">Celtic</club>
+        </player>
+        <player number="14" position="MF">
+          <name>Riley McGree</name>
+          <birthDate>1998-11-02</birthDate>
+          <club country="England">Middlesbrough</club>
+        </player>
+        <player number="15" position="FW">
+          <name>Mitchell Duke</name>
+          <birthDate>1991-01-18</birthDate>
+          <club country="Japan">Fagiano Okayama</club>
+        </player>
+        <player number="16" position="DF">
+          <name>Aziz Behich</name>
+          <birthDate>1990-12-16</birthDate>
+          <club country="Scotland">Dundee United</club>
+        </player>
+        <player number="17" position="MF">
+          <name>Cameron Devlin</name>
+          <birthDate>1998-06-07</birthDate>
+          <club country="Scotland">Heart of Midlothian</club>
+        </player>
+        <player number="18" position="GK">
+          <name>Danny Vukovic</name>
+          <birthDate>1985-03-27</birthDate>
+          <club country="Australia">Central Coast Mariners</club>
+        </player>
+        <player number="19" position="DF">
+          <name>Harry Souttar</name>
+          <birthDate>1998-10-22</birthDate>
+          <club country="England">Stoke City</club>
+        </player>
+        <player number="20" position="DF">
+          <name>Thomas Deng</name>
+          <birthDate>1997-03-20</birthDate>
+          <club country="Japan">Albirex Niigata</club>
+        </player>
+        <player number="21" position="FW">
+          <name>Garang Kuol</name>
+          <birthDate>2004-09-15</birthDate>
+          <club country="Australia">Central Coast Mariners</club>
+        </player>
+        <player number="22" position="MF">
+          <name>Jackson Irvine</name>
+          <birthDate>1993-03-07</birthDate>
+          <club country="Germany">FC St. Pauli</club>
+        </player>
+        <player number="23" position="FW">
+          <name>Craig Goodwin</name>
+          <birthDate>1991-12-16</birthDate>
+          <club country="Australia">Adelaide United</club>
+        </player>
+        <player number="24" position="DF">
+          <name>Joel King</name>
+          <birthDate>2000-10-30</birthDate>
+          <club country="Denmark">OB</club>
+        </player>
+        <player number="25" position="FW">
+          <name>Jason Cummings</name>
+          <birthDate>1995-08-01</birthDate>
+          <club country="Australia">Central Coast Mariners</club>
+        </player>
+        <player number="26" position="MF">
+          <name>Keanu Baccus</name>
+          <birthDate>1998-06-07</birthDate>
+          <club country="Scotland">St Mirren</club>
+        </player>
+      </squad>
+    </team>
+    <team name="Denmark">
+      <coach>
+        <name>Kasper Hjulmand</name>
+        <country>Denmark</country>
+      </coach>
+      <squad>
+        <player number="1" position="GK">
+          <name>Kasper Schmeichel</name>
+          <birthDate>1986-11-05</birthDate>
+          <club country="France">Nice</club>
+        </player>
+        <player number="2" position="DF">
+          <name>Joachim Andersen</name>
+          <birthDate>1996-05-31</birthDate>
+          <club country="England">Crystal Palace</club>
+        </player>
+        <player number="3" position="DF">
+          <name>Victor Nelsson</name>
+          <birthDate>1998-10-14</birthDate>
+          <club country="Turkey">Galatasaray</club>
+        </player>
+        <player number="4" position="DF">
+          <name>Simon Kjær</name>
+          <birthDate>1989-03-26</birthDate>
+          <club country="Italy">Milan</club>
+        </player>
+        <player number="5" position="DF">
+          <name>Joakim Mæhle</name>
+          <birthDate>1997-05-20</birthDate>
+          <club country="Italy">Atalanta</club>
+        </player>
+        <player number="6" position="DF">
+          <name>Andreas Christensen</name>
+          <birthDate>1996-04-10</birthDate>
+          <club country="Spain">Barcelona</club>
+        </player>
+        <player number="7" position="MF">
+          <name>Mathias Jensen</name>
+          <birthDate>1996-01-01</birthDate>
+          <club country="England">Brentford</club>
+        </player>
+        <player number="8" position="MF">
+          <name>Thomas Delaney</name>
+          <birthDate>1991-09-03</birthDate>
+          <club country="Spain">Sevilla</club>
+        </player>
+        <player number="9" position="FW">
+          <name>Martin Braithwaite</name>
+          <birthDate>1991-06-05</birthDate>
+          <club country="Spain">Espanyol</club>
+        </player>
+        <player number="10" position="MF">
+          <name>Christian Eriksen</name>
+          <birthDate>1992-02-14</birthDate>
+          <club country="England">Manchester United</club>
+        </player>
+        <player number="11" position="MF">
+          <name>Andreas Skov Olsen</name>
+          <birthDate>1999-12-29</birthDate>
+          <club country="Belgium">Club Brugge</club>
+        </player>
+        <player number="12" position="FW">
+          <name>Kasper Dolberg</name>
+          <birthDate>1997-10-06</birthDate>
+          <club country="Spain">Sevilla</club>
+        </player>
+        <player number="13" position="DF">
+          <name>Rasmus Kristensen</name>
+          <birthDate>1997-07-11</birthDate>
+          <club country="England">Leeds United</club>
+        </player>
+        <player number="14" position="MF">
+          <name>Mikkel Damsgaard</name>
+          <birthDate>2000-07-03</birthDate>
+          <club country="England">Brentford</club>
+        </player>
+        <player number="15" position="MF">
+          <name>Christian Nørgaard</name>
+          <birthDate>1994-03-10</birthDate>
+          <club country="England">Brentford</club>
+        </player>
+        <player number="16" position="GK">
+          <name>Oliver Christensen</name>
+          <birthDate>1999-03-22</birthDate>
+          <club country="Germany">Hertha BSC</club>
+        </player>
+        <player number="17" position="DF">
+          <name>Jens Stryger Larsen</name>
+          <birthDate>1991-02-21</birthDate>
+          <club country="Turkey">Trabzonspor</club>
+        </player>
+        <player number="18" position="DF">
+          <name>Daniel Wass</name>
+          <birthDate>1989-05-31</birthDate>
+          <club country="Denmark">Brøndby</club>
+        </player>
+        <player number="19" position="FW">
+          <name>Jonas Wind</name>
+          <birthDate>1999-02-07</birthDate>
+          <club country="Germany">VfL Wolfsburg</club>
+        </player>
+        <player number="20" position="FW">
+          <name>Yussuf Poulsen</name>
+          <birthDate>1994-06-15</birthDate>
+          <club country="Germany">RB Leipzig</club>
+        </player>
+        <player number="21" position="FW">
+          <name>Andreas Cornelius</name>
+          <birthDate>1993-03-16</birthDate>
+          <club country="Denmark">Copenhagen</club>
+        </player>
+        <player number="22" position="GK">
+          <name>Frederik Rønnow</name>
+          <birthDate>1992-08-04</birthDate>
+          <club country="Germany">Union Berlin</club>
+        </player>
+        <player number="23" position="MF">
+          <name>Pierre-Emile Højbjerg</name>
+          <birthDate>1995-08-05</birthDate>
+          <club country="England">Tottenham Hotspur</club>
+        </player>
+        <player number="24" position="MF">
+          <name>Robert Skov</name>
+          <birthDate>1996-05-20</birthDate>
+          <club country="Germany">1899 Hoffenheim</club>
+        </player>
+        <player number="25" position="MF">
+          <name>Jesper Lindstrøm</name>
+          <birthDate>2000-02-29</birthDate>
+          <club country="Germany">Eintracht Frankfurt</club>
+        </player>
+        <player number="26" position="DF">
+          <name>Alexander Bah</name>
+          <birthDate>1997-12-09</birthDate>
+          <club country="Portugal">Benfica</club>
+        </player>
+      </squad>
+    </team>
+    <team name="France">
+      <coach>
+        <name>Didier Deschamps</name>
+        <country>France</country>
+      </coach>
+      <squad>
+        <player number="1" position="GK">
+          <name>Hugo Lloris</name>
+          <birthDate>1986-12-26</birthDate>
+          <club country="England">Tottenham Hotspur</club>
+        </player>
+        <player number="2" position="DF">
+          <name>Benjamin Pavard</name>
+          <birthDate>1996-03-28</birthDate>
+          <club country="Germany">Bayern Munich</club>
+        </player>
+        <player number="3" position="DF">
+          <name>Axel Disasi</name>
+          <birthDate>1998-03-11</birthDate>
+          <club country="France">Monaco</club>
+        </player>
+        <player number="4" position="DF">
+          <name>Raphaël Varane</name>
+          <birthDate>1993-04-25</birthDate>
+          <club country="England">Manchester United</club>
+        </player>
+        <player number="5" position="DF">
+          <name>Jules Koundé</name>
+          <birthDate>1998-11-12</birthDate>
+          <club country="Spain">Barcelona</club>
+        </player>
+        <player number="6" position="MF">
+          <name>Matteo Guendouzi</name>
+          <birthDate>1999-04-14</birthDate>
+          <club country="France">Marseille</club>
+        </player>
+        <player number="7" position="FW">
+          <name>Antoine Griezmann</name>
+          <birthDate>1991-03-21</birthDate>
+          <club country="Spain">Atlético Madrid</club>
+        </player>
+        <player number="8" position="MF">
+          <name>Aurélien Tchouaméni</name>
+          <birthDate>2000-01-27</birthDate>
+          <club country="Spain">Real Madrid</club>
+        </player>
+        <player number="9" position="FW">
+          <name>Olivier Giroud</name>
+          <birthDate>1986-09-30</birthDate>
+          <club country="Italy">Milan</club>
+        </player>
+        <player number="10" position="FW">
+          <name>Kylian Mbappé</name>
+          <birthDate>1998-12-20</birthDate>
+          <club country="France">Paris Saint-Germain</club>
+        </player>
+        <player number="11" position="FW">
+          <name>Ousmane Dembélé</name>
+          <birthDate>1997-05-15</birthDate>
+          <club country="Spain">Barcelona</club>
+        </player>
+        <player number="12" position="FW">
+          <name>Randal Kolo Muani</name>
+          <birthDate>1998-12-05</birthDate>
+          <club country="Germany">Eintracht Frankfurt</club>
+        </player>
+        <player number="13" position="MF">
+          <name>Youssouf Fofana</name>
+          <birthDate>1999-01-10</birthDate>
+          <club country="France">Monaco</club>
+        </player>
+        <player number="14" position="MF">
+          <name>Adrien Rabiot</name>
+          <birthDate>1995-04-03</birthDate>
+          <club country="Italy">Juventus</club>
+        </player>
+        <player number="15" position="MF">
+          <name>Jordan Veretout</name>
+          <birthDate>1993-03-01</birthDate>
+          <club country="France">Marseille</club>
+        </player>
+        <player number="16" position="GK">
+          <name>Steve Mandanda</name>
+          <birthDate>1985-03-28</birthDate>
+          <club country="France">Rennes</club>
+        </player>
+        <player number="17" position="DF">
+          <name>William Saliba</name>
+          <birthDate>2001-03-24</birthDate>
+          <club country="England">Arsenal</club>
+        </player>
+        <player number="18" position="DF">
+          <name>Dayot Upamecano</name>
+          <birthDate>1998-10-27</birthDate>
+          <club country="Germany">Bayern Munich</club>
+        </player>
+        <player number="19" position="FW">
+          <name>Karim Benzema</name>
+          <birthDate>1987-12-19</birthDate>
+          <club country="Spain">Real Madrid</club>
+        </player>
+        <player number="20" position="FW">
+          <name>Kingsley Coman</name>
+          <birthDate>1996-06-13</birthDate>
+          <club country="Germany">Bayern Munich</club>
+        </player>
+        <player number="21" position="DF">
+          <name>Lucas Hernandez</name>
+          <birthDate>1996-02-14</birthDate>
+          <club country="Germany">Bayern Munich</club>
+        </player>
+        <player number="22" position="DF">
+          <name>Theo Hernandez</name>
+          <birthDate>1997-10-06</birthDate>
+          <club country="Italy">Milan</club>
+        </player>
+        <player number="23" position="GK">
+          <name>Alphonse Areola</name>
+          <birthDate>1993-02-27</birthDate>
+          <club country="England">West Ham United</club>
+        </player>
+        <player number="24" position="DF">
+          <name>Ibrahima Konaté</name>
+          <birthDate>1999-05-25</birthDate>
+          <club country="England">Liverpool</club>
+        </player>
+        <player number="25" position="MF">
+          <name>Eduardo Camavinga</name>
+          <birthDate>2002-11-10</birthDate>
+          <club country="Spain">Real Madrid</club>
+        </player>
+        <player number="26" position="FW">
+          <name>Marcus Thuram</name>
+          <birthDate>1997-08-06</birthDate>
+          <club country="Germany">Borussia Mönchengladbach</club>
+        </player>
+      </squad>
+    </team>
+    <team name="Tunisia">
+      <coach>
+        <name>Jalel Kadri</name>
+        <country>Tunisia</country>
+      </coach>
+      <squad>
+        <player number="1" position="GK">
+          <name>Aymen Mathlouthi</name>
+          <birthDate>1984-09-14</birthDate>
+          <club country="Tunisia">Étoile du Sahel</club>
+        </player>
+        <player number="2" position="DF">
+          <name>Bilel Ifa</name>
+          <birthDate>1990-03-09</birthDate>
+          <club country="Kuwait">Kuwait SC</club>
+        </player>
+        <player number="3" position="DF">
+          <name>Montassar Talbi</name>
+          <birthDate>1998-05-26</birthDate>
+          <club country="France">Lorient</club>
+        </player>
+        <player number="4" position="DF">
+          <name>Yassine Meriah</name>
+          <birthDate>1993-07-02</birthDate>
+          <club country="Tunisia">Espérance de Tunis</club>
+        </player>
+        <player number="5" position="MF">
+          <name>Nader Ghandri</name>
+          <birthDate>1995-02-18</birthDate>
+          <club country="Tunisia">Club Africain</club>
+        </player>
+        <player number="6" position="DF">
+          <name>Dylan Bronn</name>
+          <birthDate>1995-06-19</birthDate>
+          <club country="Italy">Salernitana</club>
+        </player>
+        <player number="7" position="FW">
+          <name>Youssef Msakni</name>
+          <birthDate>1990-10-28</birthDate>
+          <club country="Qatar">Al-Arabi</club>
+        </player>
+        <player number="8" position="MF">
+          <name>Hannibal Mejbri</name>
+          <birthDate>2003-01-21</birthDate>
+          <club country="England">Birmingham City</club>
+        </player>
+        <player number="9" position="FW">
+          <name>Issam Jebali</name>
+          <birthDate>1991-12-25</birthDate>
+          <club country="Denmark">OB</club>
+        </player>
+        <player number="10" position="FW">
+          <name>Wahbi Khazri</name>
+          <birthDate>1991-02-08</birthDate>
+          <club country="France">Montpellier</club>
+        </player>
+        <player number="11" position="FW">
+          <name>Taha Yassine Khenissi</name>
+          <birthDate>1992-01-06</birthDate>
+          <club country="Kuwait">Kuwait SC</club>
+        </player>
+        <player number="12" position="DF">
+          <name>Ali Maâloul</name>
+          <birthDate>1990-01-01</birthDate>
+          <club country="Egypt">Al Ahly</club>
+        </player>
+        <player number="13" position="MF">
+          <name>Ferjani Sassi</name>
+          <birthDate>1992-03-18</birthDate>
+          <club country="Qatar">Al-Duhail</club>
+        </player>
+        <player number="14" position="MF">
+          <name>Aïssa Laïdouni</name>
+          <birthDate>1996-12-13</birthDate>
+          <club country="Hungary">Ferencváros</club>
+        </player>
+        <player number="15" position="MF">
+          <name>Mohamed Ali Ben Romdhane</name>
+          <birthDate>1999-09-06</birthDate>
+          <club country="Tunisia">Espérance de Tunis</club>
+        </player>
+        <player number="16" position="GK">
+          <name>Aymen Dahmen</name>
+          <birthDate>1997-01-28</birthDate>
+          <club country="Tunisia">CS Sfaxien</club>
+        </player>
+        <player number="17" position="MF">
+          <name>Ellyes Skhiri</name>
+          <birthDate>1995-05-10</birthDate>
+          <club country="Germany">1. FC Köln</club>
+        </player>
+        <player number="18" position="MF">
+          <name>Ghailene Chaalali</name>
+          <birthDate>1994-02-28</birthDate>
+          <club country="Tunisia">Espérance de Tunis</club>
+        </player>
+        <player number="19" position="FW">
+          <name>Seifeddine Jaziri</name>
+          <birthDate>1993-02-12</birthDate>
+          <club country="Egypt">Zamalek</club>
+        </player>
+        <player number="20" position="DF">
+          <name>Mohamed Dräger</name>
+          <birthDate>1996-06-25</birthDate>
+          <club country="Switzerland">Luzern</club>
+        </player>
+        <player number="21" position="DF">
+          <name>Wajdi Kechrida</name>
+          <birthDate>1995-11-05</birthDate>
+          <club country="Greece">Atromitos</club>
+        </player>
+        <player number="22" position="GK">
+          <name>Bechir Ben Saïd</name>
+          <birthDate>1992-11-29</birthDate>
+          <club country="Tunisia">US Monastir</club>
+        </player>
+        <player number="23" position="FW">
+          <name>Naïm Sliti</name>
+          <birthDate>1992-07-27</birthDate>
+          <club country="Saudi Arabia">Al-Ettifaq</club>
+        </player>
+        <player number="24" position="DF">
+          <name>Ali Abdi</name>
+          <birthDate>1993-12-20</birthDate>
+          <club country="France">Caen</club>
+        </player>
+        <player number="25" position="FW">
+          <name>Anis Ben Slimane</name>
+          <birthDate>2001-03-16</birthDate>
+          <club country="Denmark">Brøndby</club>
+        </player>
+        <player number="26" position="GK">
+          <name>Mouez Hassen</name>
+          <birthDate>1995-03-05</birthDate>
+          <club country="Tunisia">Club Africain</club>
+        </player>
+      </squad>
+    </team>
+  </group>
+  <group id="E">
+    <team name="Costa Rica">
+      <coach>
+        <name>Luis Fernando Suárez</name>
+        <country>Colombia</country>
+      </coach>
+      <squad>
+        <player number="1" position="GK">
+          <name>Keylor Navas</name>
+          <birthDate>1986-12-15</birthDate>
+          <club country="France">Paris Saint-Germain</club>
+        </player>
+        <player number="2" position="MF">
+          <name>Daniel Chacón</name>
+          <birthDate>2001-04-11</birthDate>
+          <club country="Costa Rica">Cartaginés</club>
+        </player>
+        <player number="3" position="DF">
+          <name>Juan Pablo Vargas</name>
+          <birthDate>1995-06-06</birthDate>
+          <club country="Colombia">Millonarios</club>
+        </player>
+        <player number="4" position="DF">
+          <name>Keysher Fuller</name>
+          <birthDate>1994-07-12</birthDate>
+          <club country="Costa Rica">Herediano</club>
+        </player>
+        <player number="5" position="MF">
+          <name>Celso Borges</name>
+          <birthDate>1988-05-27</birthDate>
+          <club country="Costa Rica">Alajuelense</club>
+        </player>
+        <player number="6" position="DF">
+          <name>Óscar Duarte</name>
+          <birthDate>1989-06-03</birthDate>
+          <club country="Saudi Arabia">Al-Wehda</club>
+        </player>
+        <player number="7" position="FW">
+          <name>Anthony Contreras</name>
+          <birthDate>2000-01-29</birthDate>
+          <club country="Costa Rica">Herediano</club>
+        </player>
+        <player number="8" position="DF">
+          <name>Bryan Oviedo</name>
+          <birthDate>1990-02-18</birthDate>
+          <club country="United States">Real Salt Lake</club>
+        </player>
+        <player number="9" position="MF">
+          <name>Jewison Bennette</name>
+          <birthDate>2004-06-15</birthDate>
+          <club country="England">Sunderland</club>
+        </player>
+        <player number="10" position="MF">
+          <name>Bryan Ruiz</name>
+          <birthDate>1985-08-18</birthDate>
+          <club country="Costa Rica">Alajuelense</club>
+        </player>
+        <player number="11" position="FW">
+          <name>Johan Venegas</name>
+          <birthDate>1988-11-27</birthDate>
+          <club country="Costa Rica">Alajuelense</club>
+        </player>
+        <player number="12" position="FW">
+          <name>Joel Campbell</name>
+          <birthDate>1992-06-26</birthDate>
+          <club country="Mexico">León</club>
+        </player>
+        <player number="13" position="MF">
+          <name>Gerson Torres</name>
+          <birthDate>1997-08-28</birthDate>
+          <club country="Costa Rica">Herediano</club>
+        </player>
+        <player number="14" position="MF">
+          <name>Youstin Salas</name>
+          <birthDate>1996-06-17</birthDate>
+          <club country="Costa Rica">Saprissa</club>
+        </player>
+        <player number="15" position="DF">
+          <name>Francisco Calvo</name>
+          <birthDate>1992-07-08</birthDate>
+          <club country="Turkey">Konyaspor</club>
+        </player>
+        <player number="16" position="DF">
+          <name>Carlos Martínez</name>
+          <birthDate>1999-03-30</birthDate>
+          <club country="Costa Rica">San Carlos</club>
+        </player>
+        <player number="17" position="MF">
+          <name>Yeltsin Tejeda</name>
+          <birthDate>1992-03-17</birthDate>
+          <club country="Costa Rica">Herediano</club>
+        </player>
+        <player number="18" position="GK">
+          <name>Esteban Alvarado</name>
+          <birthDate>1989-04-28</birthDate>
+          <club country="Costa Rica">Herediano</club>
+        </player>
+        <player number="19" position="DF">
+          <name>Kendall Waston</name>
+          <birthDate>1988-01-01</birthDate>
+          <club country="Costa Rica">Saprissa</club>
+        </player>
+        <player number="20" position="MF">
+          <name>Brandon Aguilera</name>
+          <birthDate>2003-06-28</birthDate>
+          <club country="Costa Rica">Guanacasteca</club>
+        </player>
+        <player number="21" position="MF">
+          <name>Douglas López</name>
+          <birthDate>1998-09-21</birthDate>
+          <club country="Costa Rica">Herediano</club>
+        </player>
+        <player number="22" position="DF">
+          <name>Rónald Matarrita</name>
+          <birthDate>1994-07-09</birthDate>
+          <club country="United States">FC Cincinnati</club>
+        </player>
+        <player number="23" position="GK">
+          <name>Patrick Sequeira</name>
+          <birthDate>1999-03-01</birthDate>
+          <club country="Spain">Lugo</club>
+        </player>
+        <player number="24" position="MF">
+          <name>Roan Wilson</name>
+          <birthDate>2002-05-01</birthDate>
+          <club country="Costa Rica">Municipal Grecia</club>
+        </player>
+        <player number="25" position="MF">
+          <name>Anthony Hernández</name>
+          <birthDate>2001-10-11</birthDate>
+          <club country="Costa Rica">Puntarenas</club>
+        </player>
+        <player number="26" position="MF">
+          <name>Álvaro Zamora</name>
+          <birthDate>2002-03-09</birthDate>
+          <club country="Costa Rica">Saprissa</club>
+        </player>
+      </squad>
+    </team>
+    <team name="Germany">
+      <coach>
+        <name>Hansi Flick</name>
+        <country>Germany</country>
+      </coach>
+      <squad>
+        <player number="1" position="GK">
+          <name>Manuel Neuer</name>
+          <birthDate>1986-03-27</birthDate>
+          <club country="Germany">Bayern Munich</club>
+        </player>
+        <player number="2" position="DF">
+          <name>Antonio Rüdiger</name>
+          <birthDate>1993-03-03</birthDate>
+          <club country="Spain">Real Madrid</club>
+        </player>
+        <player number="3" position="DF">
+          <name>David Raum</name>
+          <birthDate>1998-04-22</birthDate>
+          <club country="Germany">RB Leipzig</club>
+        </player>
+        <player number="4" position="DF">
+          <name>Matthias Ginter</name>
+          <birthDate>1994-01-19</birthDate>
+          <club country="Germany">SC Freiburg</club>
+        </player>
+        <player number="5" position="DF">
+          <name>Thilo Kehrer</name>
+          <birthDate>1996-09-21</birthDate>
+          <club country="England">West Ham United</club>
+        </player>
+        <player number="6" position="MF">
+          <name>Joshua Kimmich</name>
+          <birthDate>1995-02-08</birthDate>
+          <club country="Germany">Bayern Munich</club>
+        </player>
+        <player number="7" position="FW">
+          <name>Kai Havertz</name>
+          <birthDate>1999-06-11</birthDate>
+          <club country="England">Chelsea</club>
+        </player>
+        <player number="8" position="MF">
+          <name>Leon Goretzka</name>
+          <birthDate>1995-02-06</birthDate>
+          <club country="Germany">Bayern Munich</club>
+        </player>
+        <player number="9" position="FW">
+          <name>Niclas Füllkrug</name>
+          <birthDate>1993-02-09</birthDate>
+          <club country="Germany">Werder Bremen</club>
+        </player>
+        <player number="10" position="FW">
+          <name>Serge Gnabry</name>
+          <birthDate>1995-07-14</birthDate>
+          <club country="Germany">Bayern Munich</club>
+        </player>
+        <player number="11" position="MF">
+          <name>Mario Götze</name>
+          <birthDate>1992-06-03</birthDate>
+          <club country="Germany">Eintracht Frankfurt</club>
+        </player>
+        <player number="12" position="GK">
+          <name>Kevin Trapp</name>
+          <birthDate>1990-07-08</birthDate>
+          <club country="Germany">Eintracht Frankfurt</club>
+        </player>
+        <player number="13" position="MF">
+          <name>Thomas Müller</name>
+          <birthDate>1989-09-13</birthDate>
+          <club country="Germany">Bayern Munich</club>
+        </player>
+        <player number="14" position="MF">
+          <name>Jamal Musiala</name>
+          <birthDate>2003-02-26</birthDate>
+          <club country="Germany">Bayern Munich</club>
+        </player>
+        <player number="15" position="DF">
+          <name>Niklas Süle</name>
+          <birthDate>1995-09-03</birthDate>
+          <club country="Germany">Borussia Dortmund</club>
+        </player>
+        <player number="16" position="DF">
+          <name>Lukas Klostermann</name>
+          <birthDate>1996-06-03</birthDate>
+          <club country="Germany">RB Leipzig</club>
+        </player>
+        <player number="17" position="MF">
+          <name>Julian Brandt</name>
+          <birthDate>1996-05-02</birthDate>
+          <club country="Germany">Borussia Dortmund</club>
+        </player>
+        <player number="18" position="MF">
+          <name>Jonas Hofmann</name>
+          <birthDate>1992-07-14</birthDate>
+          <club country="Germany">Borussia Mönchengladbach</club>
+        </player>
+        <player number="19" position="MF">
+          <name>Leroy Sané</name>
+          <birthDate>1996-01-11</birthDate>
+          <club country="Germany">Bayern Munich</club>
+        </player>
+        <player number="20" position="DF">
+          <name>Christian Günter</name>
+          <birthDate>1993-02-28</birthDate>
+          <club country="Germany">SC Freiburg</club>
+        </player>
+        <player number="21" position="MF">
+          <name>İlkay Gündoğan</name>
+          <birthDate>1990-10-24</birthDate>
+          <club country="England">Manchester City</club>
+        </player>
+        <player number="22" position="GK">
+          <name>Marc-André ter Stegen</name>
+          <birthDate>1992-04-30</birthDate>
+          <club country="Spain">Barcelona</club>
+        </player>
+        <player number="23" position="DF">
+          <name>Nico Schlotterbeck</name>
+          <birthDate>1999-12-01</birthDate>
+          <club country="Germany">Borussia Dortmund</club>
+        </player>
+        <player number="24" position="FW">
+          <name>Karim Adeyemi</name>
+          <birthDate>2002-01-18</birthDate>
+          <club country="Germany">Borussia Dortmund</club>
+        </player>
+        <player number="25" position="DF">
+          <name>Armel Bella-Kotchap</name>
+          <birthDate>2001-12-11</birthDate>
+          <club country="England">Southampton</club>
+        </player>
+        <player number="26" position="FW">
+          <name>Youssoufa Moukoko</name>
+          <birthDate>2004-11-20</birthDate>
+          <club country="Germany">Borussia Dortmund</club>
+        </player>
+      </squad>
+    </team>
+    <team name="Japan">
+      <coach>
+        <name>Hajime Moriyasu</name>
+        <country>Japan</country>
+      </coach>
+      <squad>
+        <player number="1" position="GK">
+          <name>Eiji Kawashima</name>
+          <birthDate>1983-03-20</birthDate>
+          <club country="France">Strasbourg</club>
+        </player>
+        <player number="2" position="DF">
+          <name>Miki Yamane</name>
+          <birthDate>1993-12-22</birthDate>
+          <club country="Japan">Kawasaki Frontale</club>
+        </player>
+        <player number="3" position="DF">
+          <name>Shogo Taniguchi</name>
+          <birthDate>1991-07-15</birthDate>
+          <club country="Japan">Kawasaki Frontale</club>
+        </player>
+        <player number="4" position="DF">
+          <name>Ko Itakura</name>
+          <birthDate>1997-01-27</birthDate>
+          <club country="Germany">Borussia Mönchengladbach</club>
+        </player>
+        <player number="5" position="DF">
+          <name>Yuto Nagatomo</name>
+          <birthDate>1986-09-12</birthDate>
+          <club country="Japan">FC Tokyo</club>
+        </player>
+        <player number="6" position="MF">
+          <name>Wataru Endo</name>
+          <birthDate>1993-02-09</birthDate>
+          <club country="Germany">VfB Stuttgart</club>
+        </player>
+        <player number="7" position="MF">
+          <name>Gaku Shibasaki</name>
+          <birthDate>1992-05-28</birthDate>
+          <club country="Spain">Leganés</club>
+        </player>
+        <player number="8" position="MF">
+          <name>Ritsu Dōan</name>
+          <birthDate>1998-06-16</birthDate>
+          <club country="Germany">SC Freiburg</club>
+        </player>
+        <player number="9" position="MF">
+          <name>Kaoru Mitoma</name>
+          <birthDate>1997-05-20</birthDate>
+          <club country="England">Brighton &amp; Hove Albion</club>
+        </player>
+        <player number="10" position="MF">
+          <name>Takumi Minamino</name>
+          <birthDate>1995-01-16</birthDate>
+          <club country="France">Monaco</club>
+        </player>
+        <player number="11" position="MF">
+          <name>Takefusa Kubo</name>
+          <birthDate>2001-06-04</birthDate>
+          <club country="Spain">Real Sociedad</club>
+        </player>
+        <player number="12" position="GK">
+          <name>Shūichi Gonda</name>
+          <birthDate>1989-03-03</birthDate>
+          <club country="Japan">Shimizu S-Pulse</club>
+        </player>
+        <player number="13" position="MF">
+          <name>Hidemasa Morita</name>
+          <birthDate>1995-05-10</birthDate>
+          <club country="Portugal">Sporting CP</club>
+        </player>
+        <player number="14" position="MF">
+          <name>Junya Ito</name>
+          <birthDate>1993-03-09</birthDate>
+          <club country="France">Reims</club>
+        </player>
+        <player number="15" position="MF">
+          <name>Daichi Kamada</name>
+          <birthDate>1996-08-05</birthDate>
+          <club country="Germany">Eintracht Frankfurt</club>
+        </player>
+        <player number="16" position="DF">
+          <name>Takehiro Tomiyasu</name>
+          <birthDate>1998-11-05</birthDate>
+          <club country="England">Arsenal</club>
+        </player>
+        <player number="17" position="MF">
+          <name>Ao Tanaka</name>
+          <birthDate>1998-09-10</birthDate>
+          <club country="Germany">Fortuna Düsseldorf</club>
+        </player>
+        <player number="18" position="FW">
+          <name>Takuma Asano</name>
+          <birthDate>1994-11-10</birthDate>
+          <club country="Germany">VfL Bochum</club>
+        </player>
+        <player number="19" position="DF">
+          <name>Hiroki Sakai</name>
+          <birthDate>1990-04-12</birthDate>
+          <club country="Japan">Urawa Red Diamonds</club>
+        </player>
+        <player number="20" position="FW">
+          <name>Shuto Machino</name>
+          <birthDate>1999-09-30</birthDate>
+          <club country="Japan">Shonan Bellmare</club>
+        </player>
+        <player number="21" position="FW">
+          <name>Ayase Ueda</name>
+          <birthDate>1998-08-28</birthDate>
+          <club country="Belgium">Cercle Brugge</club>
+        </player>
+        <player number="22" position="DF">
+          <name>Maya Yoshida</name>
+          <birthDate>1988-08-24</birthDate>
+          <club country="Germany">Schalke 04</club>
+        </player>
+        <player number="23" position="GK">
+          <name>Daniel Schmidt</name>
+          <birthDate>1992-02-03</birthDate>
+          <club country="Belgium">Sint-Truiden</club>
+        </player>
+        <player number="24" position="MF">
+          <name>Yuki Soma</name>
+          <birthDate>1997-02-25</birthDate>
+          <club country="Japan">Nagoya Grampus</club>
+        </player>
+        <player number="25" position="FW">
+          <name>Daizen Maeda</name>
+          <birthDate>1997-10-20</birthDate>
+          <club country="Scotland">Celtic</club>
+        </player>
+        <player number="26" position="DF">
+          <name>Hiroki Ito</name>
+          <birthDate>1999-05-12</birthDate>
+          <club country="Germany">VfB Stuttgart</club>
+        </player>
+      </squad>
+    </team>
+    <team name="Spain">
+      <coach>
+        <name>Luis Enrique</name>
+        <country>Spain</country>
+      </coach>
+      <squad>
+        <player number="1" position="GK">
+          <name>Robert Sánchez</name>
+          <birthDate>1997-11-18</birthDate>
+          <club country="England">Brighton &amp; Hove Albion</club>
+        </player>
+        <player number="2" position="DF">
+          <name>César Azpilicueta</name>
+          <birthDate>1989-08-28</birthDate>
+          <club country="England">Chelsea</club>
+        </player>
+        <player number="3" position="DF">
+          <name>Eric García</name>
+          <birthDate>2001-01-09</birthDate>
+          <club country="Spain">Barcelona</club>
+        </player>
+        <player number="4" position="DF">
+          <name>Pau Torres</name>
+          <birthDate>1997-01-16</birthDate>
+          <club country="Spain">Villarreal</club>
+        </player>
+        <player number="5" position="MF">
+          <name>Sergio Busquets</name>
+          <birthDate>1988-07-16</birthDate>
+          <club country="Spain">Barcelona</club>
+        </player>
+        <player number="6" position="MF">
+          <name>Marcos Llorente</name>
+          <birthDate>1995-01-30</birthDate>
+          <club country="Spain">Atlético Madrid</club>
+        </player>
+        <player number="7" position="FW">
+          <name>Álvaro Morata</name>
+          <birthDate>1992-10-23</birthDate>
+          <club country="Spain">Atlético Madrid</club>
+        </player>
+        <player number="8" position="MF">
+          <name>Koke</name>
+          <birthDate>1992-01-08</birthDate>
+          <club country="Spain">Atlético Madrid</club>
+        </player>
+        <player number="9" position="MF">
+          <name>Gavi</name>
+          <birthDate>2004-08-05</birthDate>
+          <club country="Spain">Barcelona</club>
+        </player>
+        <player number="10" position="FW">
+          <name>Marco Asensio</name>
+          <birthDate>1996-01-21</birthDate>
+          <club country="Spain">Real Madrid</club>
+        </player>
+        <player number="11" position="FW">
+          <name>Ferran Torres</name>
+          <birthDate>2000-02-29</birthDate>
+          <club country="Spain">Barcelona</club>
+        </player>
+        <player number="12" position="FW">
+          <name>Nico Williams</name>
+          <birthDate>2002-07-12</birthDate>
+          <club country="Spain">Athletic Bilbao</club>
+        </player>
+        <player number="13" position="GK">
+          <name>David Raya</name>
+          <birthDate>1995-09-15</birthDate>
+          <club country="England">Brentford</club>
+        </player>
+        <player number="14" position="DF">
+          <name>Alejandro Balde</name>
+          <birthDate>2003-10-18</birthDate>
+          <club country="Spain">Barcelona</club>
+        </player>
+        <player number="15" position="DF">
+          <name>Hugo Guillamón</name>
+          <birthDate>2000-01-31</birthDate>
+          <club country="Spain">Valencia</club>
+        </player>
+        <player number="16" position="MF">
+          <name>Rodri</name>
+          <birthDate>1996-06-22</birthDate>
+          <club country="England">Manchester City</club>
+        </player>
+        <player number="17" position="FW">
+          <name>Yeremy Pino</name>
+          <birthDate>2002-10-20</birthDate>
+          <club country="Spain">Villarreal</club>
+        </player>
+        <player number="18" position="DF">
+          <name>Jordi Alba</name>
+          <birthDate>1989-03-21</birthDate>
+          <club country="Spain">Barcelona</club>
+        </player>
+        <player number="19" position="MF">
+          <name>Carlos Soler</name>
+          <birthDate>1997-01-02</birthDate>
+          <club country="France">Paris Saint-Germain</club>
+        </player>
+        <player number="20" position="DF">
+          <name>Dani Carvajal</name>
+          <birthDate>1992-01-11</birthDate>
+          <club country="Spain">Real Madrid</club>
+        </player>
+        <player number="21" position="FW">
+          <name>Dani Olmo</name>
+          <birthDate>1998-05-07</birthDate>
+          <club country="Germany">RB Leipzig</club>
+        </player>
+        <player number="22" position="FW">
+          <name>Pablo Sarabia</name>
+          <birthDate>1992-05-11</birthDate>
+          <club country="France">Paris Saint-Germain</club>
+        </player>
+        <player number="23" position="GK">
+          <name>Unai Simón</name>
+          <birthDate>1997-06-11</birthDate>
+          <club country="Spain">Athletic Bilbao</club>
+        </player>
+        <player number="24" position="DF">
+          <name>Aymeric Laporte</name>
+          <birthDate>1994-05-27</birthDate>
+          <club country="England">Manchester City</club>
+        </player>
+        <player number="25" position="FW">
+          <name>Ansu Fati</name>
+          <birthDate>2002-10-31</birthDate>
+          <club country="Spain">Barcelona</club>
+        </player>
+        <player number="26" position="MF">
+          <name>Pedri</name>
+          <birthDate>2002-11-25</birthDate>
+          <club country="Spain">Barcelona</club>
+        </player>
+      </squad>
+    </team>
+  </group>
+  <group id="F">
+    <team name="Belgium">
+      <coach>
+        <name>Roberto Martínez</name>
+        <country>Spain</country>
+      </coach>
+      <squad>
+        <player number="1" position="GK">
+          <name>Thibaut Courtois</name>
+          <birthDate>1992-05-11</birthDate>
+          <club country="Spain">Real Madrid</club>
+        </player>
+        <player number="2" position="DF">
+          <name>Toby Alderweireld</name>
+          <birthDate>1989-03-02</birthDate>
+          <club country="Belgium">Antwerp</club>
+        </player>
+        <player number="3" position="DF">
+          <name>Arthur Theate</name>
+          <birthDate>2000-05-25</birthDate>
+          <club country="France">Rennes</club>
+        </player>
+        <player number="4" position="DF">
+          <name>Wout Faes</name>
+          <birthDate>1998-04-03</birthDate>
+          <club country="England">Leicester City</club>
+        </player>
+        <player number="5" position="DF">
+          <name>Jan Vertonghen</name>
+          <birthDate>1987-04-24</birthDate>
+          <club country="Belgium">Anderlecht</club>
+        </player>
+        <player number="6" position="MF">
+          <name>Axel Witsel</name>
+          <birthDate>1989-01-12</birthDate>
+          <club country="Spain">Atlético Madrid</club>
+        </player>
+        <player number="7" position="MF">
+          <name>Kevin De Bruyne</name>
+          <birthDate>1991-06-28</birthDate>
+          <club country="England">Manchester City</club>
+        </player>
+        <player number="8" position="MF">
+          <name>Youri Tielemans</name>
+          <birthDate>1997-05-07</birthDate>
+          <club country="England">Leicester City</club>
+        </player>
+        <player number="9" position="FW">
+          <name>Romelu Lukaku</name>
+          <birthDate>1993-05-13</birthDate>
+          <club country="Italy">Internazionale</club>
+        </player>
+        <player number="10" position="FW">
+          <name>Eden Hazard</name>
+          <birthDate>1991-01-07</birthDate>
+          <club country="Spain">Real Madrid</club>
+        </player>
+        <player number="11" position="FW">
+          <name>Yannick Carrasco</name>
+          <birthDate>1993-09-04</birthDate>
+          <club country="Spain">Atlético Madrid</club>
+        </player>
+        <player number="12" position="GK">
+          <name>Simon Mignolet</name>
+          <birthDate>1988-03-06</birthDate>
+          <club country="Belgium">Club Brugge</club>
+        </player>
+        <player number="13" position="GK">
+          <name>Koen Casteels</name>
+          <birthDate>1992-06-25</birthDate>
+          <club country="Germany">VfL Wolfsburg</club>
+        </player>
+        <player number="14" position="FW">
+          <name>Dries Mertens</name>
+          <birthDate>1987-05-06</birthDate>
+          <club country="Turkey">Galatasaray</club>
+        </player>
+        <player number="15" position="MF">
+          <name>Thomas Meunier</name>
+          <birthDate>1991-09-12</birthDate>
+          <club country="Germany">Borussia Dortmund</club>
+        </player>
+        <player number="16" position="MF">
+          <name>Thorgan Hazard</name>
+          <birthDate>1993-03-29</birthDate>
+          <club country="Germany">Borussia Dortmund</club>
+        </player>
+        <player number="17" position="FW">
+          <name>Leandro Trossard</name>
+          <birthDate>1994-12-04</birthDate>
+          <club country="England">Brighton &amp; Hove Albion</club>
+        </player>
+        <player number="18" position="MF">
+          <name>Amadou Onana</name>
+          <birthDate>2001-08-16</birthDate>
+          <club country="England">Everton</club>
+        </player>
+        <player number="19" position="DF">
+          <name>Leander Dendoncker</name>
+          <birthDate>1995-04-15</birthDate>
+          <club country="England">Aston Villa</club>
+        </player>
+        <player number="20" position="MF">
+          <name>Hans Vanaken</name>
+          <birthDate>1992-08-24</birthDate>
+          <club country="Belgium">Club Brugge</club>
+        </player>
+        <player number="21" position="MF">
+          <name>Timothy Castagne</name>
+          <birthDate>1995-12-05</birthDate>
+          <club country="England">Leicester City</club>
+        </player>
+        <player number="22" position="FW">
+          <name>Charles De Ketelaere</name>
+          <birthDate>2001-03-10</birthDate>
+          <club country="Italy">Milan</club>
+        </player>
+        <player number="23" position="FW">
+          <name>Michy Batshuayi</name>
+          <birthDate>1993-10-02</birthDate>
+          <club country="Turkey">Fenerbahçe</club>
+        </player>
+        <player number="24" position="FW">
+          <name>Loïs Openda</name>
+          <birthDate>2000-02-16</birthDate>
+          <club country="France">Lens</club>
+        </player>
+        <player number="25" position="FW">
+          <name>Jérémy Doku</name>
+          <birthDate>2002-05-27</birthDate>
+          <club country="France">Rennes</club>
+        </player>
+        <player number="26" position="DF">
+          <name>Zeno Debast</name>
+          <birthDate>2003-10-24</birthDate>
+          <club country="Belgium">Anderlecht</club>
+        </player>
+      </squad>
+    </team>
+    <team name="Canada">
+      <coach>
+        <name>John Herdman</name>
+        <country>England</country>
+      </coach>
+      <squad>
+        <player number="1" position="GK">
+          <name>Dayne St. Clair</name>
+          <birthDate>1997-05-09</birthDate>
+          <club country="United States">Minnesota United FC</club>
+        </player>
+        <player number="2" position="DF">
+          <name>Alistair Johnston</name>
+          <birthDate>1998-10-08</birthDate>
+          <club country="Canada">CF Montréal</club>
+        </player>
+        <player number="3" position="DF">
+          <name>Sam Adekugbe</name>
+          <birthDate>1995-01-16</birthDate>
+          <club country="Turkey">Hatayspor</club>
+        </player>
+        <player number="4" position="DF">
+          <name>Kamal Miller</name>
+          <birthDate>1997-05-16</birthDate>
+          <club country="Canada">CF Montréal</club>
+        </player>
+        <player number="5" position="DF">
+          <name>Steven Vitória</name>
+          <birthDate>1987-01-11</birthDate>
+          <club country="Portugal">Chaves</club>
+        </player>
+        <player number="6" position="MF">
+          <name>Samuel Piette</name>
+          <birthDate>1994-11-12</birthDate>
+          <club country="Canada">CF Montréal</club>
+        </player>
+        <player number="7" position="MF">
+          <name>Stephen Eustáquio</name>
+          <birthDate>1996-12-21</birthDate>
+          <club country="Portugal">Porto</club>
+        </player>
+        <player number="8" position="MF">
+          <name>Liam Fraser</name>
+          <birthDate>1998-02-13</birthDate>
+          <club country="Belgium">Deinze</club>
+        </player>
+        <player number="9" position="FW">
+          <name>Lucas Cavallini</name>
+          <birthDate>1992-12-28</birthDate>
+          <club country="Canada">Vancouver Whitecaps FC</club>
+        </player>
+        <player number="10" position="MF">
+          <name>Junior Hoilett</name>
+          <birthDate>1990-06-05</birthDate>
+          <club country="England">Reading</club>
+        </player>
+        <player number="11" position="FW">
+          <name>Tajon Buchanan</name>
+          <birthDate>1999-02-08</birthDate>
+          <club country="Belgium">Club Brugge</club>
+        </player>
+        <player number="12" position="FW">
+          <name>Iké Ugbo</name>
+          <birthDate>1998-09-21</birthDate>
+          <club country="France">Troyes</club>
+        </player>
+        <player number="13" position="MF">
+          <name>Atiba Hutchinson</name>
+          <birthDate>1983-02-08</birthDate>
+          <club country="Turkey">Beşiktaş</club>
+        </player>
+        <player number="14" position="MF">
+          <name>Mark-Anthony Kaye</name>
+          <birthDate>1994-12-02</birthDate>
+          <club country="Canada">Toronto FC</club>
+        </player>
+        <player number="15" position="MF">
+          <name>Ismaël Koné</name>
+          <birthDate>2002-06-16</birthDate>
+          <club country="Canada">CF Montréal</club>
+        </player>
+        <player number="16" position="GK">
+          <name>James Pantemis</name>
+          <birthDate>1997-02-21</birthDate>
+          <club country="Canada">CF Montréal</club>
+        </player>
+        <player number="17" position="FW">
+          <name>Cyle Larin</name>
+          <birthDate>1995-04-17</birthDate>
+          <club country="Belgium">Club Brugge</club>
+        </player>
+        <player number="18" position="GK">
+          <name>Milan Borjan</name>
+          <birthDate>1987-10-23</birthDate>
+          <club country="Serbia">Red Star Belgrade</club>
+        </player>
+        <player number="19" position="FW">
+          <name>Alphonso Davies</name>
+          <birthDate>2000-11-02</birthDate>
+          <club country="Germany">Bayern Munich</club>
+        </player>
+        <player number="20" position="FW">
+          <name>Jonathan David</name>
+          <birthDate>2000-01-14</birthDate>
+          <club country="France">Lille</club>
+        </player>
+        <player number="21" position="MF">
+          <name>Jonathan Osorio</name>
+          <birthDate>1992-06-12</birthDate>
+          <club country="Canada">Toronto FC</club>
+        </player>
+        <player number="22" position="DF">
+          <name>Richie Laryea</name>
+          <birthDate>1995-01-07</birthDate>
+          <club country="Canada">Toronto FC</club>
+        </player>
+        <player number="23" position="MF">
+          <name>Liam Millar</name>
+          <birthDate>1999-09-27</birthDate>
+          <club country="Switzerland">Basel</club>
+        </player>
+        <player number="24" position="MF">
+          <name>David Wotherspoon</name>
+          <birthDate>1990-01-16</birthDate>
+          <club country="Scotland">St Johnstone</club>
+        </player>
+        <player number="25" position="DF">
+          <name>Derek Cornelius</name>
+          <birthDate>1997-11-25</birthDate>
+          <club country="Greece">Panetolikos</club>
+        </player>
+        <player number="26" position="DF">
+          <name>Joel Waterman</name>
+          <birthDate>1996-01-24</birthDate>
+          <club country="Canada">CF Montréal</club>
+        </player>
+      </squad>
+    </team>
+    <team name="Croatia">
+      <coach>
+        <name>Zlatko Dalić</name>
+        <country>Croatia</country>
+      </coach>
+      <squad>
+        <player number="1" position="GK">
+          <name>Dominik Livaković</name>
+          <birthDate>1995-01-09</birthDate>
+          <club country="Croatia">Dinamo Zagreb</club>
+        </player>
+        <player number="2" position="DF">
+          <name>Josip Stanišić</name>
+          <birthDate>2000-04-02</birthDate>
+          <club country="Germany">Bayern Munich</club>
+        </player>
+        <player number="3" position="DF">
+          <name>Borna Barišić</name>
+          <birthDate>1992-11-10</birthDate>
+          <club country="Scotland">Rangers</club>
+        </player>
+        <player number="4" position="FW">
+          <name>Ivan Perišić</name>
+          <birthDate>1989-02-02</birthDate>
+          <club country="England">Tottenham Hotspur</club>
+        </player>
+        <player number="5" position="DF">
+          <name>Martin Erlić</name>
+          <birthDate>1998-01-24</birthDate>
+          <club country="Italy">Sassuolo</club>
+        </player>
+        <player number="6" position="DF">
+          <name>Dejan Lovren</name>
+          <birthDate>1989-07-05</birthDate>
+          <club country="Russia">Zenit Saint Petersburg</club>
+        </player>
+        <player number="7" position="MF">
+          <name>Lovro Majer</name>
+          <birthDate>1998-01-17</birthDate>
+          <club country="France">Rennes</club>
+        </player>
+        <player number="8" position="MF">
+          <name>Mateo Kovačić</name>
+          <birthDate>1994-05-06</birthDate>
+          <club country="England">Chelsea</club>
+        </player>
+        <player number="9" position="FW">
+          <name>Andrej Kramarić</name>
+          <birthDate>1991-06-19</birthDate>
+          <club country="Germany">1899 Hoffenheim</club>
+        </player>
+        <player number="10" position="MF">
+          <name>Luka Modrić</name>
+          <birthDate>1985-09-09</birthDate>
+          <club country="Spain">Real Madrid</club>
+        </player>
+        <player number="11" position="MF">
+          <name>Marcelo Brozović</name>
+          <birthDate>1992-11-16</birthDate>
+          <club country="Italy">Internazionale</club>
+        </player>
+        <player number="12" position="GK">
+          <name>Ivo Grbić</name>
+          <birthDate>1996-01-18</birthDate>
+          <club country="Spain">Atlético Madrid</club>
+        </player>
+        <player number="13" position="MF">
+          <name>Nikola Vlašić</name>
+          <birthDate>1997-10-04</birthDate>
+          <club country="Italy">Torino</club>
+        </player>
+        <player number="14" position="FW">
+          <name>Marko Livaja</name>
+          <birthDate>1993-08-26</birthDate>
+          <club country="Croatia">Hajduk Split</club>
+        </player>
+        <player number="15" position="MF">
+          <name>Mario Pašalić</name>
+          <birthDate>1995-02-09</birthDate>
+          <club country="Italy">Atalanta</club>
+        </player>
+        <player number="16" position="FW">
+          <name>Bruno Petković</name>
+          <birthDate>1994-09-16</birthDate>
+          <club country="Croatia">Dinamo Zagreb</club>
+        </player>
+        <player number="17" position="FW">
+          <name>Ante Budimir</name>
+          <birthDate>1991-07-22</birthDate>
+          <club country="Spain">Osasuna</club>
+        </player>
+        <player number="18" position="FW">
+          <name>Mislav Oršić</name>
+          <birthDate>1992-12-29</birthDate>
+          <club country="Croatia">Dinamo Zagreb</club>
+        </player>
+        <player number="19" position="DF">
+          <name>Borna Sosa</name>
+          <birthDate>1998-01-21</birthDate>
+          <club country="Germany">VfB Stuttgart</club>
+        </player>
+        <player number="20" position="DF">
+          <name>Joško Gvardiol</name>
+          <birthDate>2002-01-23</birthDate>
+          <club country="Germany">RB Leipzig</club>
+        </player>
+        <player number="21" position="DF">
+          <name>Domagoj Vida</name>
+          <birthDate>1989-04-29</birthDate>
+          <club country="Greece">AEK Athens</club>
+        </player>
+        <player number="22" position="DF">
+          <name>Josip Juranović</name>
+          <birthDate>1995-08-16</birthDate>
+          <club country="Scotland">Celtic</club>
+        </player>
+        <player number="23" position="GK">
+          <name>Ivica Ivušić</name>
+          <birthDate>1995-02-01</birthDate>
+          <club country="Croatia">Osijek</club>
+        </player>
+        <player number="24" position="DF">
+          <name>Josip Šutalo</name>
+          <birthDate>2000-02-28</birthDate>
+          <club country="Croatia">Dinamo Zagreb</club>
+        </player>
+        <player number="25" position="MF">
+          <name>Luka Sučić</name>
+          <birthDate>2002-09-08</birthDate>
+          <club country="Austria">Red Bull Salzburg</club>
+        </player>
+        <player number="26" position="MF">
+          <name>Kristijan Jakić</name>
+          <birthDate>1997-05-14</birthDate>
+          <club country="Germany">Eintracht Frankfurt</club>
+        </player>
+      </squad>
+    </team>
+    <team name="Morocco">
+      <coach>
+        <name>Walid Regragui</name>
+        <country>Morocco</country>
+      </coach>
+      <squad>
+        <player number="1" position="GK">
+          <name>Yassine Bounou</name>
+          <birthDate>1991-04-05</birthDate>
+          <club country="Spain">Sevilla</club>
+        </player>
+        <player number="2" position="DF">
+          <name>Achraf Hakimi</name>
+          <birthDate>1998-11-04</birthDate>
+          <club country="France">Paris Saint-Germain</club>
+        </player>
+        <player number="3" position="DF">
+          <name>Noussair Mazraoui</name>
+          <birthDate>1997-11-14</birthDate>
+          <club country="Germany">Bayern Munich</club>
+        </player>
+        <player number="4" position="MF">
+          <name>Sofyan Amrabat</name>
+          <birthDate>1996-08-21</birthDate>
+          <club country="Italy">Fiorentina</club>
+        </player>
+        <player number="5" position="DF">
+          <name>Nayef Aguerd</name>
+          <birthDate>1996-03-30</birthDate>
+          <club country="England">West Ham United</club>
+        </player>
+        <player number="6" position="DF">
+          <name>Romain Saïss</name>
+          <birthDate>1990-03-26</birthDate>
+          <club country="Turkey">Beşiktaş</club>
+        </player>
+        <player number="7" position="MF">
+          <name>Hakim Ziyech</name>
+          <birthDate>1993-03-19</birthDate>
+          <club country="England">Chelsea</club>
+        </player>
+        <player number="8" position="MF">
+          <name>Azzedine Ounahi</name>
+          <birthDate>2000-04-19</birthDate>
+          <club country="France">Angers</club>
+        </player>
+        <player number="9" position="FW">
+          <name>Abderrazak Hamdallah</name>
+          <birthDate>1990-12-17</birthDate>
+          <club country="Saudi Arabia">Al-Ittihad</club>
+        </player>
+        <player number="10" position="MF">
+          <name>Anass Zaroury</name>
+          <birthDate>2000-11-07</birthDate>
+          <club country="England">Burnley</club>
+        </player>
+        <player number="11" position="FW">
+          <name>Abdelhamid Sabiri</name>
+          <birthDate>1996-11-28</birthDate>
+          <club country="Italy">Sampdoria</club>
+        </player>
+        <player number="12" position="GK">
+          <name>Munir Mohamedi</name>
+          <birthDate>1989-05-10</birthDate>
+          <club country="Saudi Arabia">Al-Wehda</club>
+        </player>
+        <player number="13" position="MF">
+          <name>Ilias Chair</name>
+          <birthDate>1997-10-30</birthDate>
+          <club country="England">Queens Park Rangers</club>
+        </player>
+        <player number="14" position="MF">
+          <name>Zakaria Aboukhlal</name>
+          <birthDate>2000-02-18</birthDate>
+          <club country="France">Toulouse</club>
+        </player>
+        <player number="15" position="MF">
+          <name>Selim Amallah</name>
+          <birthDate>1996-11-15</birthDate>
+          <club country="Belgium">Standard Liège</club>
+        </player>
+        <player number="16" position="FW">
+          <name>Abde Ezzalzouli</name>
+          <birthDate>2001-12-17</birthDate>
+          <club country="Spain">Osasuna</club>
+        </player>
+        <player number="17" position="MF">
+          <name>Sofiane Boufal</name>
+          <birthDate>1993-09-17</birthDate>
+          <club country="France">Angers</club>
+        </player>
+        <player number="18" position="DF">
+          <name>Jawad El Yamiq</name>
+          <birthDate>1992-02-29</birthDate>
+          <club country="Spain">Valladolid</club>
+        </player>
+        <player number="19" position="FW">
+          <name>Youssef En-Nesyri</name>
+          <birthDate>1997-06-01</birthDate>
+          <club country="Spain">Sevilla</club>
+        </player>
+        <player number="20" position="DF">
+          <name>Achraf Dari</name>
+          <birthDate>1999-05-06</birthDate>
+          <club country="France">Brest</club>
+        </player>
+        <player number="21" position="FW">
+          <name>Walid Cheddira</name>
+          <birthDate>1998-01-22</birthDate>
+          <club country="Italy">Bari</club>
+        </player>
+        <player number="22" position="GK">
+          <name>Ahmed Reda Tagnaouti</name>
+          <birthDate>1996-04-05</birthDate>
+          <club country="Morocco">Wydad AC</club>
+        </player>
+        <player number="23" position="MF">
+          <name>Bilal El Khannous</name>
+          <birthDate>2004-05-10</birthDate>
+          <club country="Belgium">Genk</club>
+        </player>
+        <player number="24" position="DF">
+          <name>Badr Benoun</name>
+          <birthDate>1993-09-30</birthDate>
+          <club country="Qatar">Qatar SC</club>
+        </player>
+        <player number="25" position="DF">
+          <name>Yahia Attiyat Allah</name>
+          <birthDate>1995-03-02</birthDate>
+          <club country="Morocco">Wydad AC</club>
+        </player>
+        <player number="26" position="MF">
+          <name>Yahya Jabrane</name>
+          <birthDate>1991-06-18</birthDate>
+          <club country="Morocco">Wydad AC</club>
+        </player>
+      </squad>
+    </team>
+  </group>
+  <group id="G">
+    <team name="Brazil">
+      <coach>
+        <name>Tite</name>
+        <country>Brazil</country>
+      </coach>
+      <squad>
+        <player number="1" position="GK">
+          <name>Alisson</name>
+          <birthDate>1992-10-02</birthDate>
+          <club country="England">Liverpool</club>
+        </player>
+        <player number="2" position="DF">
+          <name>Danilo</name>
+          <birthDate>1991-07-15</birthDate>
+          <club country="Italy">Juventus</club>
+        </player>
+        <player number="3" position="DF">
+          <name>Thiago Silva</name>
+          <birthDate>1984-09-22</birthDate>
+          <club country="England">Chelsea</club>
+        </player>
+        <player number="4" position="DF">
+          <name>Marquinhos</name>
+          <birthDate>1994-05-14</birthDate>
+          <club country="France">Paris Saint-Germain</club>
+        </player>
+        <player number="5" position="MF">
+          <name>Casemiro</name>
+          <birthDate>1992-02-23</birthDate>
+          <club country="England">Manchester United</club>
+        </player>
+        <player number="6" position="DF">
+          <name>Alex Sandro</name>
+          <birthDate>1991-01-26</birthDate>
+          <club country="Italy">Juventus</club>
+        </player>
+        <player number="7" position="MF">
+          <name>Lucas Paquetá</name>
+          <birthDate>1997-08-27</birthDate>
+          <club country="England">West Ham United</club>
+        </player>
+        <player number="8" position="MF">
+          <name>Fred</name>
+          <birthDate>1993-03-05</birthDate>
+          <club country="England">Manchester United</club>
+        </player>
+        <player number="9" position="FW">
+          <name>Richarlison</name>
+          <birthDate>1997-05-10</birthDate>
+          <club country="England">Tottenham Hotspur</club>
+        </player>
+        <player number="10" position="FW">
+          <name>Neymar</name>
+          <birthDate>1992-02-05</birthDate>
+          <club country="France">Paris Saint-Germain</club>
+        </player>
+        <player number="11" position="FW">
+          <name>Raphinha</name>
+          <birthDate>1996-12-14</birthDate>
+          <club country="Spain">Barcelona</club>
+        </player>
+        <player number="12" position="GK">
+          <name>Weverton</name>
+          <birthDate>1987-12-13</birthDate>
+          <club country="Brazil">Palmeiras</club>
+        </player>
+        <player number="13" position="DF">
+          <name>Dani Alves</name>
+          <birthDate>1983-05-06</birthDate>
+          <club country="Mexico">UNAM</club>
+        </player>
+        <player number="14" position="DF">
+          <name>Éder Militão</name>
+          <birthDate>1998-01-18</birthDate>
+          <club country="Spain">Real Madrid</club>
+        </player>
+        <player number="15" position="MF">
+          <name>Fabinho</name>
+          <birthDate>1993-10-23</birthDate>
+          <club country="England">Liverpool</club>
+        </player>
+        <player number="16" position="DF">
+          <name>Alex Telles</name>
+          <birthDate>1992-12-15</birthDate>
+          <club country="Spain">Sevilla</club>
+        </player>
+        <player number="17" position="MF">
+          <name>Bruno Guimarães</name>
+          <birthDate>1997-11-16</birthDate>
+          <club country="England">Newcastle United</club>
+        </player>
+        <player number="18" position="FW">
+          <name>Gabriel Jesus</name>
+          <birthDate>1997-04-03</birthDate>
+          <club country="England">Arsenal</club>
+        </player>
+        <player number="19" position="FW">
+          <name>Antony</name>
+          <birthDate>2000-02-24</birthDate>
+          <club country="England">Manchester United</club>
+        </player>
+        <player number="20" position="FW">
+          <name>Vinícius Júnior</name>
+          <birthDate>2000-07-12</birthDate>
+          <club country="Spain">Real Madrid</club>
+        </player>
+        <player number="21" position="FW">
+          <name>Rodrygo</name>
+          <birthDate>2001-01-09</birthDate>
+          <club country="Spain">Real Madrid</club>
+        </player>
+        <player number="22" position="MF">
+          <name>Éverton Ribeiro</name>
+          <birthDate>1989-04-10</birthDate>
+          <club country="Brazil">Flamengo</club>
+        </player>
+        <player number="23" position="GK">
+          <name>Ederson</name>
+          <birthDate>1993-08-17</birthDate>
+          <club country="England">Manchester City</club>
+        </player>
+        <player number="24" position="DF">
+          <name>Bremer</name>
+          <birthDate>1997-03-18</birthDate>
+          <club country="Italy">Juventus</club>
+        </player>
+        <player number="25" position="FW">
+          <name>Pedro</name>
+          <birthDate>1997-06-20</birthDate>
+          <club country="Brazil">Flamengo</club>
+        </player>
+        <player number="26" position="FW">
+          <name>Gabriel Martinelli</name>
+          <birthDate>2001-06-18</birthDate>
+          <club country="England">Arsenal</club>
+        </player>
+      </squad>
+    </team>
+    <team name="Cameroon">
+      <coach>
+        <name>Rigobert Song</name>
+        <country>Cameroon</country>
+      </coach>
+      <squad>
+        <player number="1" position="GK">
+          <name>Simon Ngapandouetnbu</name>
+          <birthDate>2003-04-12</birthDate>
+          <club country="France">Marseille</club>
+        </player>
+        <player number="2" position="DF">
+          <name>Jerome Ngom Mbekeli</name>
+          <birthDate>1998-09-30</birthDate>
+          <club country="Cameroon">Colombe Sportive</club>
+        </player>
+        <player number="3" position="DF">
+          <name>Nicolas Nkoulou</name>
+          <birthDate>1990-03-27</birthDate>
+          <club country="Greece">Aris</club>
+        </player>
+        <player number="4" position="DF">
+          <name>Christopher Wooh</name>
+          <birthDate>2001-09-18</birthDate>
+          <club country="France">Rennes</club>
+        </player>
+        <player number="5" position="MF">
+          <name>Gaël Ondoua</name>
+          <birthDate>1995-11-04</birthDate>
+          <club country="Germany">Hannover 96</club>
+        </player>
+        <player number="6" position="FW">
+          <name>Moumi Ngamaleu</name>
+          <birthDate>1994-07-09</birthDate>
+          <club country="Russia">Dynamo Moscow</club>
+        </player>
+        <player number="7" position="MF">
+          <name>Georges-Kévin Nkoudou</name>
+          <birthDate>1995-02-13</birthDate>
+          <club country="Turkey">Beşiktaş</club>
+        </player>
+        <player number="8" position="MF">
+          <name>André-Frank Zambo Anguissa</name>
+          <birthDate>1995-11-16</birthDate>
+          <club country="Italy">Napoli</club>
+        </player>
+        <player number="9" position="FW">
+          <name>Jean-Pierre Nsame</name>
+          <birthDate>1993-05-01</birthDate>
+          <club country="Switzerland">Young Boys</club>
+        </player>
+        <player number="10" position="FW">
+          <name>Vincent Aboubakar</name>
+          <birthDate>1992-01-22</birthDate>
+          <club country="Saudi Arabia">Al-Nassr</club>
+        </player>
+        <player number="11" position="FW">
+          <name>Christian Bassogog</name>
+          <birthDate>1995-10-18</birthDate>
+          <club country="China">Shanghai Shenhua</club>
+        </player>
+        <player number="12" position="FW">
+          <name>Karl Toko Ekambi</name>
+          <birthDate>1992-09-14</birthDate>
+          <club country="France">Lyon</club>
+        </player>
+        <player number="13" position="FW">
+          <name>Eric Maxim Choupo-Moting</name>
+          <birthDate>1989-03-23</birthDate>
+          <club country="Germany">Bayern Munich</club>
+        </player>
+        <player number="14" position="MF">
+          <name>Samuel Gouet</name>
+          <birthDate>1997-12-14</birthDate>
+          <club country="Belgium">Mechelen</club>
+        </player>
+        <player number="15" position="MF">
+          <name>Pierre Kunde</name>
+          <birthDate>1995-07-26</birthDate>
+          <club country="Greece">Olympiacos</club>
+        </player>
+        <player number="16" position="GK">
+          <name>Devis Epassy</name>
+          <birthDate>1993-02-02</birthDate>
+          <club country="Saudi Arabia">Abha</club>
+        </player>
+        <player number="17" position="DF">
+          <name>Olivier Mbaizo</name>
+          <birthDate>1997-08-15</birthDate>
+          <club country="United States">Philadelphia Union</club>
+        </player>
+        <player number="18" position="MF">
+          <name>Martin Hongla</name>
+          <birthDate>1998-03-16</birthDate>
+          <club country="Italy">Hellas Verona</club>
+        </player>
+        <player number="19" position="DF">
+          <name>Collins Fai</name>
+          <birthDate>1992-08-13</birthDate>
+          <club country="Saudi Arabia">Al-Tai</club>
+        </player>
+        <player number="20" position="FW">
+          <name>Bryan Mbeumo</name>
+          <birthDate>1999-08-07</birthDate>
+          <club country="England">Brentford</club>
+        </player>
+        <player number="21" position="DF">
+          <name>Jean-Charles Castelletto</name>
+          <birthDate>1995-01-26</birthDate>
+          <club country="France">Nantes</club>
+        </player>
+        <player number="22" position="MF">
+          <name>Olivier Ntcham</name>
+          <birthDate>1996-02-09</birthDate>
+          <club country="Wales">Swansea City</club>
+        </player>
+        <player number="23" position="GK">
+          <name>André Onana</name>
+          <birthDate>1996-04-02</birthDate>
+          <club country="Italy">Internazionale</club>
+        </player>
+        <player number="24" position="DF">
+          <name>Enzo Ebosse</name>
+          <birthDate>1999-03-11</birthDate>
+          <club country="Italy">Udinese</club>
+        </player>
+        <player number="25" position="DF">
+          <name>Nouhou Tolo</name>
+          <birthDate>1997-06-23</birthDate>
+          <club country="United States">Seattle Sounders FC</club>
+        </player>
+        <player number="26" position="MF">
+          <name>Souaibou Marou</name>
+          <birthDate>2000-12-03</birthDate>
+          <club country="Cameroon">Coton Sport</club>
+        </player>
+      </squad>
+    </team>
+    <team name="Serbia">
+      <coach>
+        <name>Dragan Stojković</name>
+        <country>Serbia</country>
+      </coach>
+      <squad>
+        <player number="1" position="GK">
+          <name>Marko Dmitrović</name>
+          <birthDate>1992-01-24</birthDate>
+          <club country="Spain">Sevilla</club>
+        </player>
+        <player number="2" position="DF">
+          <name>Strahinja Pavlović</name>
+          <birthDate>2001-05-24</birthDate>
+          <club country="Austria">Red Bull Salzburg</club>
+        </player>
+        <player number="3" position="DF">
+          <name>Strahinja Eraković</name>
+          <birthDate>2001-01-22</birthDate>
+          <club country="Serbia">Red Star Belgrade</club>
+        </player>
+        <player number="4" position="DF">
+          <name>Nikola Milenković</name>
+          <birthDate>1997-10-12</birthDate>
+          <club country="Italy">Fiorentina</club>
+        </player>
+        <player number="5" position="DF">
+          <name>Miloš Veljković</name>
+          <birthDate>1995-09-26</birthDate>
+          <club country="Germany">Werder Bremen</club>
+        </player>
+        <player number="6" position="MF">
+          <name>Nemanja Maksimović</name>
+          <birthDate>1995-01-26</birthDate>
+          <club country="Spain">Getafe</club>
+        </player>
+        <player number="7" position="FW">
+          <name>Nemanja Radonjić</name>
+          <birthDate>1996-02-15</birthDate>
+          <club country="Italy">Torino</club>
+        </player>
+        <player number="8" position="MF">
+          <name>Nemanja Gudelj</name>
+          <birthDate>1991-11-16</birthDate>
+          <club country="Spain">Sevilla</club>
+        </player>
+        <player number="9" position="FW">
+          <name>Aleksandar Mitrović</name>
+          <birthDate>1994-09-16</birthDate>
+          <club country="England">Fulham</club>
+        </player>
+        <player number="10" position="FW">
+          <name>Dušan Tadić</name>
+          <birthDate>1988-11-20</birthDate>
+          <club country="Netherlands">Ajax</club>
+        </player>
+        <player number="11" position="FW">
+          <name>Luka Jović</name>
+          <birthDate>1997-12-23</birthDate>
+          <club country="Italy">Fiorentina</club>
+        </player>
+        <player number="12" position="GK">
+          <name>Predrag Rajković</name>
+          <birthDate>1995-10-31</birthDate>
+          <club country="Spain">Mallorca</club>
+        </player>
+        <player number="13" position="DF">
+          <name>Stefan Mitrović</name>
+          <birthDate>1990-05-22</birthDate>
+          <club country="Spain">Getafe</club>
+        </player>
+        <player number="14" position="MF">
+          <name>Andrija Živković</name>
+          <birthDate>1996-07-11</birthDate>
+          <club country="Greece">PAOK</club>
+        </player>
+        <player number="15" position="DF">
+          <name>Srđan Babić</name>
+          <birthDate>1996-04-22</birthDate>
+          <club country="Spain">Almería</club>
+        </player>
+        <player number="16" position="MF">
+          <name>Saša Lukić</name>
+          <birthDate>1996-08-13</birthDate>
+          <club country="Italy">Torino</club>
+        </player>
+        <player number="17" position="MF">
+          <name>Filip Kostić</name>
+          <birthDate>1992-11-01</birthDate>
+          <club country="Italy">Juventus</club>
+        </player>
+        <player number="18" position="FW">
+          <name>Dušan Vlahović</name>
+          <birthDate>2000-01-28</birthDate>
+          <club country="Italy">Juventus</club>
+        </player>
+        <player number="19" position="MF">
+          <name>Uroš Račić</name>
+          <birthDate>1998-03-17</birthDate>
+          <club country="Portugal">Braga</club>
+        </player>
+        <player number="20" position="MF">
+          <name>Sergej Milinković-Savić</name>
+          <birthDate>1995-02-27</birthDate>
+          <club country="Italy">Lazio</club>
+        </player>
+        <player number="21" position="FW">
+          <name>Filip Đuričić</name>
+          <birthDate>1992-01-30</birthDate>
+          <club country="Italy">Sampdoria</club>
+        </player>
+        <player number="22" position="MF">
+          <name>Darko Lazović</name>
+          <birthDate>1990-09-15</birthDate>
+          <club country="Italy">Hellas Verona</club>
+        </player>
+        <player number="23" position="GK">
+          <name>Vanja Milinković-Savić</name>
+          <birthDate>1997-02-20</birthDate>
+          <club country="Italy">Torino</club>
+        </player>
+        <player number="24" position="MF">
+          <name>Ivan Ilić</name>
+          <birthDate>2001-03-17</birthDate>
+          <club country="Italy">Hellas Verona</club>
+        </player>
+        <player number="25" position="DF">
+          <name>Filip Mladenović</name>
+          <birthDate>1991-08-15</birthDate>
+          <club country="Poland">Legia Warsaw</club>
+        </player>
+        <player number="26" position="MF">
+          <name>Marko Grujić</name>
+          <birthDate>1996-04-13</birthDate>
+          <club country="Portugal">Porto</club>
+        </player>
+      </squad>
+    </team>
+    <team name="Switzerland">
+      <coach>
+        <name>Murat Yakin</name>
+        <country>Switzerland</country>
+      </coach>
+      <squad>
+        <player number="1" position="GK">
+          <name>Yann Sommer</name>
+          <birthDate>1988-12-17</birthDate>
+          <club country="Germany">Borussia Mönchengladbach</club>
+        </player>
+        <player number="2" position="DF">
+          <name>Edimilson Fernandes</name>
+          <birthDate>1996-04-15</birthDate>
+          <club country="Germany">Mainz 05</club>
+        </player>
+        <player number="3" position="DF">
+          <name>Silvan Widmer</name>
+          <birthDate>1993-03-05</birthDate>
+          <club country="Germany">Mainz 05</club>
+        </player>
+        <player number="4" position="DF">
+          <name>Nico Elvedi</name>
+          <birthDate>1996-09-30</birthDate>
+          <club country="Germany">Borussia Mönchengladbach</club>
+        </player>
+        <player number="5" position="DF">
+          <name>Manuel Akanji</name>
+          <birthDate>1995-07-19</birthDate>
+          <club country="England">Manchester City</club>
+        </player>
+        <player number="6" position="MF">
+          <name>Denis Zakaria</name>
+          <birthDate>1996-11-20</birthDate>
+          <club country="England">Chelsea</club>
+        </player>
+        <player number="7" position="FW">
+          <name>Breel Embolo</name>
+          <birthDate>1997-02-14</birthDate>
+          <club country="France">Monaco</club>
+        </player>
+        <player number="8" position="MF">
+          <name>Remo Freuler</name>
+          <birthDate>1992-04-15</birthDate>
+          <club country="England">Nottingham Forest</club>
+        </player>
+        <player number="9" position="FW">
+          <name>Haris Seferovic</name>
+          <birthDate>1992-02-22</birthDate>
+          <club country="Turkey">Galatasaray</club>
+        </player>
+        <player number="10" position="MF">
+          <name>Granit Xhaka</name>
+          <birthDate>1992-09-27</birthDate>
+          <club country="England">Arsenal</club>
+        </player>
+        <player number="11" position="DF">
+          <name>Renato Steffen</name>
+          <birthDate>1991-11-03</birthDate>
+          <club country="Switzerland">Lugano</club>
+        </player>
+        <player number="12" position="GK">
+          <name>Jonas Omlin</name>
+          <birthDate>1994-01-10</birthDate>
+          <club country="France">Montpellier</club>
+        </player>
+        <player number="13" position="DF">
+          <name>Ricardo Rodriguez</name>
+          <birthDate>1992-08-25</birthDate>
+          <club country="Italy">Torino</club>
+        </player>
+        <player number="14" position="MF">
+          <name>Michel Aebischer</name>
+          <birthDate>1997-01-06</birthDate>
+          <club country="Italy">Bologna</club>
+        </player>
+        <player number="15" position="MF">
+          <name>Djibril Sow</name>
+          <birthDate>1997-02-06</birthDate>
+          <club country="Germany">Eintracht Frankfurt</club>
+        </player>
+        <player number="16" position="MF">
+          <name>Christian Fassnacht</name>
+          <birthDate>1993-11-11</birthDate>
+          <club country="Switzerland">Young Boys</club>
+        </player>
+        <player number="17" position="FW">
+          <name>Ruben Vargas</name>
+          <birthDate>1998-08-05</birthDate>
+          <club country="Germany">FC Augsburg</club>
+        </player>
+        <player number="18" position="DF">
+          <name>Eray Cömert</name>
+          <birthDate>1998-02-04</birthDate>
+          <club country="Spain">Valencia</club>
+        </player>
+        <player number="19" position="FW">
+          <name>Noah Okafor</name>
+          <birthDate>2000-05-24</birthDate>
+          <club country="Austria">Red Bull Salzburg</club>
+        </player>
+        <player number="20" position="MF">
+          <name>Fabian Frei</name>
+          <birthDate>1989-01-08</birthDate>
+          <club country="Switzerland">Basel</club>
+        </player>
+        <player number="21" position="GK">
+          <name>Gregor Kobel</name>
+          <birthDate>1997-12-06</birthDate>
+          <club country="Germany">Borussia Dortmund</club>
+        </player>
+        <player number="22" position="DF">
+          <name>Fabian Schär</name>
+          <birthDate>1991-12-20</birthDate>
+          <club country="England">Newcastle United</club>
+        </player>
+        <player number="23" position="MF">
+          <name>Xherdan Shaqiri</name>
+          <birthDate>1991-10-10</birthDate>
+          <club country="United States">Chicago Fire FC</club>
+        </player>
+        <player number="24" position="GK">
+          <name>Philipp Köhn</name>
+          <birthDate>1998-04-02</birthDate>
+          <club country="Austria">Red Bull Salzburg</club>
+        </player>
+        <player number="25" position="MF">
+          <name>Fabian Rieder</name>
+          <birthDate>2002-02-16</birthDate>
+          <club country="Switzerland">Young Boys</club>
+        </player>
+        <player number="26" position="MF">
+          <name>Ardon Jashari</name>
+          <birthDate>2002-07-30</birthDate>
+          <club country="Switzerland">Luzern</club>
+        </player>
+      </squad>
+    </team>
+  </group>
+  <group id="H">
+    <team name="Ghana">
+      <coach>
+        <name>Otto Addo</name>
+        <country>Ghana</country>
+      </coach>
+      <squad>
+        <player number="1" position="GK">
+          <name>Lawrence Ati-Zigi</name>
+          <birthDate>1996-11-29</birthDate>
+          <club country="Switzerland">St. Gallen</club>
+        </player>
+        <player number="2" position="DF">
+          <name>Tariq Lamptey</name>
+          <birthDate>2000-09-30</birthDate>
+          <club country="England">Brighton &amp; Hove Albion</club>
+        </player>
+        <player number="3" position="DF">
+          <name>Denis Odoi</name>
+          <birthDate>1988-05-27</birthDate>
+          <club country="Belgium">Club Brugge</club>
+        </player>
+        <player number="4" position="DF">
+          <name>Mohammed Salisu</name>
+          <birthDate>1999-04-17</birthDate>
+          <club country="England">Southampton</club>
+        </player>
+        <player number="5" position="MF">
+          <name>Thomas Partey</name>
+          <birthDate>1993-06-13</birthDate>
+          <club country="England">Arsenal</club>
+        </player>
+        <player number="6" position="MF">
+          <name>Elisha Owusu</name>
+          <birthDate>1997-11-07</birthDate>
+          <club country="Belgium">Gent</club>
+        </player>
+        <player number="7" position="MF">
+          <name>Abdul Fatawu Issahaku</name>
+          <birthDate>2004-03-08</birthDate>
+          <club country="Portugal">Sporting CP</club>
+        </player>
+        <player number="8" position="MF">
+          <name>Daniel-Kofi Kyereh</name>
+          <birthDate>1996-03-08</birthDate>
+          <club country="Germany">SC Freiburg</club>
+        </player>
+        <player number="9" position="FW">
+          <name>Jordan Ayew</name>
+          <birthDate>1991-09-11</birthDate>
+          <club country="England">Crystal Palace</club>
+        </player>
+        <player number="10" position="FW">
+          <name>André Ayew</name>
+          <birthDate>1989-12-17</birthDate>
+          <club country="Qatar">Al-Sadd</club>
+        </player>
+        <player number="11" position="MF">
+          <name>Osman Bukari</name>
+          <birthDate>1998-12-13</birthDate>
+          <club country="Serbia">Red Star Belgrade</club>
+        </player>
+        <player number="12" position="GK">
+          <name>Ibrahim Danlad</name>
+          <birthDate>2002-12-02</birthDate>
+          <club country="Ghana">Asante Kotoko</club>
+        </player>
+        <player number="13" position="MF">
+          <name>Daniel Afriyie</name>
+          <birthDate>2001-06-26</birthDate>
+          <club country="Ghana">Hearts of Oak</club>
+        </player>
+        <player number="14" position="DF">
+          <name>Gideon Mensah</name>
+          <birthDate>1998-07-18</birthDate>
+          <club country="France">Auxerre</club>
+        </player>
+        <player number="15" position="DF">
+          <name>Joseph Aidoo</name>
+          <birthDate>1995-09-29</birthDate>
+          <club country="Spain">Celta Vigo</club>
+        </player>
+        <player number="16" position="GK">
+          <name>Abdul Manaf Nurudeen</name>
+          <birthDate>1999-02-08</birthDate>
+          <club country="Belgium">Eupen</club>
+        </player>
+        <player number="17" position="DF">
+          <name>Baba Rahman</name>
+          <birthDate>1994-07-02</birthDate>
+          <club country="England">Reading</club>
+        </player>
+        <player number="18" position="DF">
+          <name>Daniel Amartey</name>
+          <birthDate>1994-12-21</birthDate>
+          <club country="England">Leicester City</club>
+        </player>
+        <player number="19" position="FW">
+          <name>Iñaki Williams</name>
+          <birthDate>1994-06-15</birthDate>
+          <club country="Spain">Athletic Bilbao</club>
+        </player>
+        <player number="20" position="MF">
+          <name>Mohammed Kudus</name>
+          <birthDate>2000-08-02</birthDate>
+          <club country="Netherlands">Ajax</club>
+        </player>
+        <player number="21" position="MF">
+          <name>Salis Abdul Samed</name>
+          <birthDate>2000-03-26</birthDate>
+          <club country="France">Lens</club>
+        </player>
+        <player number="22" position="MF">
+          <name>Kamaldeen Sulemana</name>
+          <birthDate>2002-02-15</birthDate>
+          <club country="France">Rennes</club>
+        </player>
+        <player number="23" position="DF">
+          <name>Alexander Djiku</name>
+          <birthDate>1994-08-09</birthDate>
+          <club country="France">Strasbourg</club>
+        </player>
+        <player number="24" position="MF">
+          <name>Kamal Sowah</name>
+          <birthDate>2000-01-09</birthDate>
+          <club country="Belgium">Club Brugge</club>
+        </player>
+        <player number="25" position="FW">
+          <name>Antoine Semenyo</name>
+          <birthDate>2000-01-07</birthDate>
+          <club country="England">Bristol City</club>
+        </player>
+        <player number="26" position="DF">
+          <name>Alidu Seidu</name>
+          <birthDate>2000-06-04</birthDate>
+          <club country="France">Clermont</club>
+        </player>
+      </squad>
+    </team>
+    <team name="Portugal">
+      <coach>
+        <name>Fernando Santos</name>
+        <country>Portugal</country>
+      </coach>
+      <squad>
+        <player number="1" position="GK">
+          <name>Rui Patrício</name>
+          <birthDate>1988-02-15</birthDate>
+          <club country="Italy">Roma</club>
+        </player>
+        <player number="2" position="DF">
+          <name>Diogo Dalot</name>
+          <birthDate>1999-03-18</birthDate>
+          <club country="England">Manchester United</club>
+        </player>
+        <player number="3" position="DF">
+          <name>Pepe</name>
+          <birthDate>1983-02-26</birthDate>
+          <club country="Portugal">Porto</club>
+        </player>
+        <player number="4" position="DF">
+          <name>Rúben Dias</name>
+          <birthDate>1997-05-14</birthDate>
+          <club country="England">Manchester City</club>
+        </player>
+        <player number="5" position="DF">
+          <name>Raphaël Guerreiro</name>
+          <birthDate>1993-12-22</birthDate>
+          <club country="Germany">Borussia Dortmund</club>
+        </player>
+        <player number="6" position="MF">
+          <name>João Palhinha</name>
+          <birthDate>1995-07-09</birthDate>
+          <club country="England">Fulham</club>
+        </player>
+        <player number="7" position="FW">
+          <name>Cristiano Ronaldo</name>
+          <birthDate>1985-02-05</birthDate>
+          <club country="England">Manchester United</club>
+        </player>
+        <player number="8" position="MF">
+          <name>Bruno Fernandes</name>
+          <birthDate>1994-09-08</birthDate>
+          <club country="England">Manchester United</club>
+        </player>
+        <player number="9" position="FW">
+          <name>André Silva</name>
+          <birthDate>1995-11-06</birthDate>
+          <club country="Germany">RB Leipzig</club>
+        </player>
+        <player number="10" position="FW">
+          <name>Bernardo Silva</name>
+          <birthDate>1994-08-10</birthDate>
+          <club country="England">Manchester City</club>
+        </player>
+        <player number="11" position="FW">
+          <name>João Félix</name>
+          <birthDate>1999-11-10</birthDate>
+          <club country="Spain">Atlético Madrid</club>
+        </player>
+        <player number="12" position="GK">
+          <name>José Sá</name>
+          <birthDate>1993-01-17</birthDate>
+          <club country="England">Wolverhampton Wanderers</club>
+        </player>
+        <player number="13" position="DF">
+          <name>Danilo Pereira</name>
+          <birthDate>1991-09-09</birthDate>
+          <club country="France">Paris Saint-Germain</club>
+        </player>
+        <player number="14" position="MF">
+          <name>William Carvalho</name>
+          <birthDate>1992-04-07</birthDate>
+          <club country="Spain">Real Betis</club>
+        </player>
+        <player number="15" position="FW">
+          <name>Rafael Leão</name>
+          <birthDate>1999-06-10</birthDate>
+          <club country="Italy">Milan</club>
+        </player>
+        <player number="16" position="MF">
+          <name>Vitinha</name>
+          <birthDate>2000-02-13</birthDate>
+          <club country="France">Paris Saint-Germain</club>
+        </player>
+        <player number="17" position="MF">
+          <name>João Mário</name>
+          <birthDate>1993-01-19</birthDate>
+          <club country="Portugal">Benfica</club>
+        </player>
+        <player number="18" position="MF">
+          <name>Rúben Neves</name>
+          <birthDate>1997-03-13</birthDate>
+          <club country="England">Wolverhampton Wanderers</club>
+        </player>
+        <player number="19" position="DF">
+          <name>Nuno Mendes</name>
+          <birthDate>2002-06-19</birthDate>
+          <club country="France">Paris Saint-Germain</club>
+        </player>
+        <player number="20" position="DF">
+          <name>João Cancelo</name>
+          <birthDate>1994-05-27</birthDate>
+          <club country="England">Manchester City</club>
+        </player>
+        <player number="21" position="FW">
+          <name>Ricardo Horta</name>
+          <birthDate>1994-09-15</birthDate>
+          <club country="Portugal">Braga</club>
+        </player>
+        <player number="22" position="GK">
+          <name>Diogo Costa</name>
+          <birthDate>1999-09-19</birthDate>
+          <club country="Portugal">Porto</club>
+        </player>
+        <player number="23" position="MF">
+          <name>Matheus Nunes</name>
+          <birthDate>1998-08-27</birthDate>
+          <club country="England">Wolverhampton Wanderers</club>
+        </player>
+        <player number="24" position="DF">
+          <name>António Silva</name>
+          <birthDate>2003-10-30</birthDate>
+          <club country="Portugal">Benfica</club>
+        </player>
+        <player number="25" position="MF">
+          <name>Otávio</name>
+          <birthDate>1995-02-09</birthDate>
+          <club country="Portugal">Porto</club>
+        </player>
+        <player number="26" position="FW">
+          <name>Gonçalo Ramos</name>
+          <birthDate>2001-06-20</birthDate>
+          <club country="Portugal">Benfica</club>
+        </player>
+      </squad>
+    </team>
+    <team name="South Korea">
+      <coach>
+        <name>Paulo Bento</name>
+        <country>Portugal</country>
+      </coach>
+      <squad>
+        <player number="1" position="GK">
+          <name>Kim Seung-gyu</name>
+          <birthDate>1990-09-30</birthDate>
+          <club country="Saudi Arabia">Al-Shabab</club>
+        </player>
+        <player number="2" position="DF">
+          <name>Yoon Jong-gyu</name>
+          <birthDate>1998-03-20</birthDate>
+          <club country="South Korea">FC Seoul</club>
+        </player>
+        <player number="3" position="DF">
+          <name>Kim Jin-su</name>
+          <birthDate>1992-06-13</birthDate>
+          <club country="South Korea">Jeonbuk Hyundai Motors</club>
+        </player>
+        <player number="4" position="DF">
+          <name>Kim Min-jae</name>
+          <birthDate>1996-11-15</birthDate>
+          <club country="Italy">Napoli</club>
+        </player>
+        <player number="5" position="MF">
+          <name>Jung Woo-young</name>
+          <birthDate>1989-12-14</birthDate>
+          <club country="Qatar">Al-Sadd</club>
+        </player>
+        <player number="6" position="MF">
+          <name>Hwang In-beom</name>
+          <birthDate>1996-09-20</birthDate>
+          <club country="Greece">Olympiacos</club>
+        </player>
+        <player number="7" position="MF">
+          <name>Son Heung-min</name>
+          <birthDate>1992-07-08</birthDate>
+          <club country="England">Tottenham Hotspur</club>
+        </player>
+        <player number="8" position="MF">
+          <name>Paik Seung-ho</name>
+          <birthDate>1997-03-17</birthDate>
+          <club country="South Korea">Jeonbuk Hyundai Motors</club>
+        </player>
+        <player number="9" position="FW">
+          <name>Cho Gue-sung</name>
+          <birthDate>1998-01-25</birthDate>
+          <club country="South Korea">Jeonbuk Hyundai Motors</club>
+        </player>
+        <player number="10" position="MF">
+          <name>Lee Jae-sung</name>
+          <birthDate>1992-08-10</birthDate>
+          <club country="Germany">Mainz 05</club>
+        </player>
+        <player number="11" position="MF">
+          <name>Hwang Hee-chan</name>
+          <birthDate>1996-01-26</birthDate>
+          <club country="England">Wolverhampton Wanderers</club>
+        </player>
+        <player number="12" position="GK">
+          <name>Song Bum-keun</name>
+          <birthDate>1997-10-15</birthDate>
+          <club country="South Korea">Jeonbuk Hyundai Motors</club>
+        </player>
+        <player number="13" position="MF">
+          <name>Son Jun-ho</name>
+          <birthDate>1992-05-12</birthDate>
+          <club country="China">Shandong Taishan</club>
+        </player>
+        <player number="14" position="DF">
+          <name>Hong Chul</name>
+          <birthDate>1990-09-17</birthDate>
+          <club country="South Korea">Daegu FC</club>
+        </player>
+        <player number="15" position="DF">
+          <name>Kim Moon-hwan</name>
+          <birthDate>1995-08-01</birthDate>
+          <club country="South Korea">Jeonbuk Hyundai Motors</club>
+        </player>
+        <player number="16" position="FW">
+          <name>Hwang Ui-jo</name>
+          <birthDate>1992-08-28</birthDate>
+          <club country="Greece">Olympiacos</club>
+        </player>
+        <player number="17" position="MF">
+          <name>Na Sang-ho</name>
+          <birthDate>1996-08-12</birthDate>
+          <club country="South Korea">FC Seoul</club>
+        </player>
+        <player number="18" position="MF">
+          <name>Lee Kang-in</name>
+          <birthDate>2001-02-19</birthDate>
+          <club country="Spain">Mallorca</club>
+        </player>
+        <player number="19" position="DF">
+          <name>Kim Young-gwon</name>
+          <birthDate>1990-02-27</birthDate>
+          <club country="South Korea">Ulsan Hyundai</club>
+        </player>
+        <player number="20" position="DF">
+          <name>Kwon Kyung-won</name>
+          <birthDate>1992-01-31</birthDate>
+          <club country="Japan">Gamba Osaka</club>
+        </player>
+        <player number="21" position="GK">
+          <name>Jo Hyeon-woo</name>
+          <birthDate>1991-09-25</birthDate>
+          <club country="South Korea">Ulsan Hyundai</club>
+        </player>
+        <player number="22" position="MF">
+          <name>Kwon Chang-hoon</name>
+          <birthDate>1994-06-30</birthDate>
+          <club country="South Korea">Gimcheon Sangmu</club>
+        </player>
+        <player number="23" position="DF">
+          <name>Kim Tae-hwan</name>
+          <birthDate>1989-07-24</birthDate>
+          <club country="South Korea">Ulsan Hyundai</club>
+        </player>
+        <player number="24" position="DF">
+          <name>Cho Yu-min</name>
+          <birthDate>1996-11-17</birthDate>
+          <club country="South Korea">Daejeon Hana Citizen</club>
+        </player>
+        <player number="25" position="MF">
+          <name>Jeong Woo-yeong</name>
+          <birthDate>1999-09-20</birthDate>
+          <club country="Germany">SC Freiburg</club>
+        </player>
+        <player number="26" position="MF">
+          <name>Song Min-kyu</name>
+          <birthDate>1999-09-12</birthDate>
+          <club country="South Korea">Jeonbuk Hyundai Motors</club>
+        </player>
+      </squad>
+    </team>
+    <team name="Uruguay">
+      <coach>
+        <name>Diego Alonso</name>
+        <country>Uruguay</country>
+      </coach>
+      <squad>
+        <player number="1" position="GK">
+          <name>Fernando Muslera</name>
+          <birthDate>1986-06-16</birthDate>
+          <club country="Turkey">Galatasaray</club>
+        </player>
+        <player number="2" position="DF">
+          <name>José Giménez</name>
+          <birthDate>1995-01-20</birthDate>
+          <club country="Spain">Atlético Madrid</club>
+        </player>
+        <player number="3" position="DF">
+          <name>Diego Godín</name>
+          <birthDate>1986-02-16</birthDate>
+          <club country="Argentina">Vélez Sarsfield</club>
+        </player>
+        <player number="4" position="DF">
+          <name>Ronald Araújo</name>
+          <birthDate>1999-03-07</birthDate>
+          <club country="Spain">Barcelona</club>
+        </player>
+        <player number="5" position="MF">
+          <name>Matías Vecino</name>
+          <birthDate>1991-08-24</birthDate>
+          <club country="Italy">Lazio</club>
+        </player>
+        <player number="6" position="MF">
+          <name>Rodrigo Bentancur</name>
+          <birthDate>1997-06-25</birthDate>
+          <club country="England">Tottenham Hotspur</club>
+        </player>
+        <player number="7" position="MF">
+          <name>Nicolás de la Cruz</name>
+          <birthDate>1997-06-01</birthDate>
+          <club country="Argentina">River Plate</club>
+        </player>
+        <player number="8" position="FW">
+          <name>Facundo Pellistri</name>
+          <birthDate>2001-12-20</birthDate>
+          <club country="England">Manchester United</club>
+        </player>
+        <player number="9" position="FW">
+          <name>Luis Suárez</name>
+          <birthDate>1987-01-24</birthDate>
+          <club country="Uruguay">Nacional</club>
+        </player>
+        <player number="10" position="MF">
+          <name>Giorgian de Arrascaeta</name>
+          <birthDate>1994-06-01</birthDate>
+          <club country="Brazil">Flamengo</club>
+        </player>
+        <player number="11" position="FW">
+          <name>Darwin Núñez</name>
+          <birthDate>1999-06-24</birthDate>
+          <club country="England">Liverpool</club>
+        </player>
+        <player number="12" position="GK">
+          <name>Sebastián Sosa</name>
+          <birthDate>1986-08-19</birthDate>
+          <club country="Argentina">Independiente</club>
+        </player>
+        <player number="13" position="DF">
+          <name>Guillermo Varela</name>
+          <birthDate>1993-03-24</birthDate>
+          <club country="Brazil">Flamengo</club>
+        </player>
+        <player number="14" position="MF">
+          <name>Lucas Torreira</name>
+          <birthDate>1996-02-11</birthDate>
+          <club country="Turkey">Galatasaray</club>
+        </player>
+        <player number="15" position="MF">
+          <name>Federico Valverde</name>
+          <birthDate>1998-07-22</birthDate>
+          <club country="Spain">Real Madrid</club>
+        </player>
+        <player number="16" position="DF">
+          <name>Mathías Olivera</name>
+          <birthDate>1997-10-31</birthDate>
+          <club country="Italy">Napoli</club>
+        </player>
+        <player number="17" position="DF">
+          <name>Matías Viña</name>
+          <birthDate>1997-11-09</birthDate>
+          <club country="Italy">Roma</club>
+        </player>
+        <player number="18" position="FW">
+          <name>Maxi Gómez</name>
+          <birthDate>1996-08-14</birthDate>
+          <club country="Turkey">Trabzonspor</club>
+        </player>
+        <player number="19" position="DF">
+          <name>Sebastián Coates</name>
+          <birthDate>1990-10-07</birthDate>
+          <club country="Portugal">Sporting CP</club>
+        </player>
+        <player number="20" position="FW">
+          <name>Facundo Torres</name>
+          <birthDate>2000-04-13</birthDate>
+          <club country="United States">Orlando City SC</club>
+        </player>
+        <player number="21" position="FW">
+          <name>Edinson Cavani</name>
+          <birthDate>1987-02-14</birthDate>
+          <club country="Spain">Valencia</club>
+        </player>
+        <player number="22" position="DF">
+          <name>Martín Cáceres</name>
+          <birthDate>1987-04-07</birthDate>
+          <club country="United States">LA Galaxy</club>
+        </player>
+        <player number="23" position="GK">
+          <name>Sergio Rochet</name>
+          <birthDate>1993-03-23</birthDate>
+          <club country="Uruguay">Nacional</club>
+        </player>
+        <player number="24" position="MF">
+          <name>Agustín Canobbio</name>
+          <birthDate>1998-10-01</birthDate>
+          <club country="Brazil">Athletico Paranaense</club>
+        </player>
+        <player number="25" position="MF">
+          <name>Manuel Ugarte</name>
+          <birthDate>2001-04-11</birthDate>
+          <club country="Portugal">Sporting CP</club>
+        </player>
+        <player number="26" position="DF">
+          <name>José Luis Rodríguez</name>
+          <birthDate>1997-03-14</birthDate>
+          <club country="Uruguay">Nacional</club>
+        </player>
+      </squad>
+    </team>
+  </group>
+</squads>
